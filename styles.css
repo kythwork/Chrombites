@@ -90,7 +90,7 @@ button {
 
 .home-stage {
   position: relative;
-  min-height: 100vh;
+  height: 100dvh;
 }
 
 .date-lockup {
@@ -495,16 +495,6 @@ body::-webkit-scrollbar,
   color: var(--muted);
 }
 
-.empty-note {
-  margin: 0;
-  color: var(--muted);
-  font-size: 14px;
-  line-height: 1.35;
-}
-
-.empty-note {
-  grid-column: 1 / -1;
-}
 
 .fab {
   position: fixed;
@@ -673,6 +663,10 @@ body::-webkit-scrollbar,
     height: 852px;
     padding: 322px 0;
     scroll-padding-block: 322px;
+  }
+
+  .home-stage {
+    height: 852px;
   }
 
 }

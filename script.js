@@ -404,10 +404,6 @@ function renderMeals(day) {
   mealList.innerHTML = "";
 
   if (day.meals.length === 0) {
-    const empty = document.createElement("p");
-    empty.className = "empty-note";
-    empty.textContent = "no meals here yet. the palette is loitering politely.";
-    mealList.append(empty);
     return;
   }
 
@@ -648,7 +644,7 @@ function makeDailyNudge(weights) {
   const total = Object.values(weights).reduce((sum, value) => sum + value, 0);
 
   if (total === 0) {
-    return "No bites logged yet. The palette is blank, but in a dignified way.";
+    return "No meals logged yet. Waiting for your first bite.";
   }
 
   const share = (category) => weights[category] / total;

@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chrombites</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Gaegu:wght@400;700&family=IBM+Plex+Mono:wght@400;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell" aria-label="Chrombites">
+      <section class="screen screen-home active" id="homeScreen" aria-label="Home">
+        <header class="brand-mark">
+          <img src="assets/chrombites.svg" alt="chrombites." />
+        </header>
+
+        <div class="home-stage">
+          <div class="date-lockup" aria-live="polite">
+            <span id="homeWeekday">Sat</span>
+            <span id="homeDate">18.07</span>
+          </div>
+          <div class="palette-scroll" id="paletteScroll" aria-label="Daily palettes"></div>
+        </div>
+
+        <form class="date-search" id="dateSearchForm">
+          <img src="assets/search.svg" alt="" />
+          <label class="sr-only" for="dateSearch">Search by date</label>
+          <input id="dateSearch" type="search" placeholder="Search by date..." autocomplete="off" />
+          <button class="search-clear" id="clearDateSearch" type="button" aria-label="Clear date search">
+            <img src="assets/close.svg" alt="" />
+          </button>
+        </form>
+      </section>
+
+      <section class="screen screen-day" id="dayScreen" aria-label="Day view">
+        <button class="back-link" id="backToHome" type="button">
+          <img src="assets/back.svg" alt="" />
+          <span>BACK</span>
+        </button>
+
+        <header class="day-header">
+          <h1 id="dayTitle">Mon 20 July</h1>
+          <p id="dayRelative">Today</p>
+        </header>
+
+        <section class="day-artifact" aria-label="Daily palette and nudge">
+          <button class="day-palette" id="dayPalette" type="button" aria-label="Tap to rearrange palette"></button>
+          <p class="pattern-hint">Tap to change pattern</p>
+          <div class="nudge-card">
+            <img src="assets/eggs.svg" alt="" />
+            <span class="nudge-divider" aria-hidden="true"></span>
+            <p id="dailyNudge">A little low in red. Adding protein will help you feel satiated longer.</p>
+          </div>
+        </section>
+
+        <section class="meal-ledger" aria-label="Meal details">
+          <div class="legend" aria-label="Food color legend">
+            <div><span class="swatch carb"></span>Carbs</div>
+            <div><span class="swatch protein"></span>Protein</div>
+            <div><span class="swatch fats"></span>Fats</div>
+            <div><span class="swatch fibre"></span>Fibre</div>
+          </div>
+          <div class="meal-list" id="mealList"></div>
+        </section>
+
+        <button class="fab" id="openAddMeal" type="button" aria-label="Add meal">
+          <span>+</span>
+        </button>
+      </section>
+
+      <section class="screen screen-add" id="addScreen" aria-label="Log meal">
+        <button class="back-link" id="backToDay" type="button">
+          <img src="assets/back.svg" alt="" />
+          <span>BACK</span>
+        </button>
+
+        <header class="day-header">
+          <h1 id="addTitle">Mon 20 July</h1>
+          <p>Today</p>
+        </header>
+
+        <form class="meal-form" id="mealForm">
+          <label class="sr-only" for="mealInput">What did you eat?</label>
+          <textarea id="mealInput" rows="5" placeholder="What did you eat?..." required></textarea>
+
+          <div class="quick-chips" aria-label="Frequently logged food">
+            <button type="button" data-food="Yogurt">Yogurt</button>
+            <button type="button" data-food="Egg">Egg</button>
+            <button type="button" data-food="Ramen">Ramen</button>
+            <button type="button" data-food="Coffee">Coffee</button>
+          </div>
+
+          <fieldset class="meal-type">
+            <legend>
+              <img src="assets/eggs.svg" alt="" />
+              <span>Meal type</span>
+            </legend>
+            <div class="tag-group">
+              <button class="tag" type="button" data-tag="breakfast">#breakfast</button>
+              <button class="tag" type="button" data-tag="lunch">#lunch</button>
+              <button class="tag" type="button" data-tag="dinner">#dinner</button>
+              <button class="tag" type="button" data-tag="snack">#snack</button>
+            </div>
+          </fieldset>
+
+          <button class="save-button" type="submit">
+            <img src="assets/save.svg" alt="" />
+            <span>SAVE</span>
+          </button>
+        </form>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>

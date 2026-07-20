@@ -1,0 +1,6096 @@
+[
+  {
+    "fdcId": 321358,
+    "description": "Hummus, commercial",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "hummus"
+    ],
+    "macros": {
+      "carb": 14.9,
+      "protein": 7.35,
+      "fats": 0.02,
+      "fibre": 5.4
+    }
+  },
+  {
+    "fdcId": 321360,
+    "description": "Tomatoes, grape, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "grape",
+      "tomatoes"
+    ],
+    "macros": {
+      "carb": 5.51,
+      "protein": 0.83,
+      "fats": 0.63,
+      "fibre": 2.1
+    }
+  },
+  {
+    "fdcId": 321611,
+    "description": "Beans, snap, green, canned, regular pack, drained solids",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "beans",
+      "drained",
+      "green",
+      "snap"
+    ],
+    "macros": {
+      "carb": 4.11,
+      "protein": 1.04,
+      "fats": 0.39,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 323121,
+    "description": "Frankfurter, beef, unheated",
+    "category": "Sausages and Luncheon Meats",
+    "tokens": [
+      "beef",
+      "frankfurter",
+      "unheated"
+    ],
+    "macros": {
+      "carb": 2.89,
+      "protein": 11.7,
+      "fats": 28.0,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 323294,
+    "description": "Nuts, almonds, dry roasted, with salt added",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "almonds",
+      "dry",
+      "nuts",
+      "roasted",
+      "salt"
+    ],
+    "macros": {
+      "carb": 16.2,
+      "protein": 20.4,
+      "fats": 34.2,
+      "fibre": 11.0
+    }
+  },
+  {
+    "fdcId": 323505,
+    "description": "Kale, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "kale"
+    ],
+    "macros": {
+      "carb": 4.42,
+      "protein": 2.92,
+      "fats": 1.49,
+      "fibre": 4.1
+    }
+  },
+  {
+    "fdcId": 323604,
+    "description": "Egg, whole, raw, frozen, pasteurized",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "egg",
+      "pasteurized",
+      "whole"
+    ],
+    "macros": {
+      "carb": 0.91,
+      "protein": 12.3,
+      "fats": 10.3,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 323697,
+    "description": "Egg, white, raw, frozen, pasteurized",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "egg",
+      "pasteurized",
+      "white"
+    ],
+    "macros": {
+      "carb": 0.74,
+      "protein": 10.1,
+      "fats": 0.16,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 323793,
+    "description": "Egg, white, dried",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "dried",
+      "egg",
+      "white"
+    ],
+    "macros": {
+      "carb": 6.02,
+      "protein": 79.9,
+      "fats": 0.65,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 324317,
+    "description": "Onion rings, breaded, par fried, frozen, prepared, heated in oven",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "breaded",
+      "fried",
+      "heated",
+      "onion",
+      "oven",
+      "par",
+      "prepared",
+      "rings"
+    ],
+    "macros": {
+      "carb": 36.3,
+      "protein": 4.52,
+      "fats": 14.4,
+      "fibre": 2.4
+    }
+  },
+  {
+    "fdcId": 324653,
+    "description": "Pickles, cucumber, dill or kosher dill",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "cucumber",
+      "dill",
+      "kosher",
+      "pickles"
+    ],
+    "macros": {
+      "carb": 1.99,
+      "protein": 0.48,
+      "fats": 0.43,
+      "fibre": 1.0
+    }
+  },
+  {
+    "fdcId": 325036,
+    "description": "Cheese, parmesan, grated",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cheese",
+      "grated",
+      "parmesan"
+    ],
+    "macros": {
+      "carb": 12.4,
+      "protein": 29.6,
+      "fats": 28.0,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 325198,
+    "description": "Cheese, pasteurized process, American, vitamin D fortified",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "american",
+      "cheese",
+      "fortified",
+      "pasteurized",
+      "process",
+      "vitamin"
+    ],
+    "macros": {
+      "carb": 5.27,
+      "protein": 18.0,
+      "fats": 7.3,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 325287,
+    "description": "Grapefruit juice, white, canned or bottled, unsweetened",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "bottled",
+      "grapefruit",
+      "juice",
+      "unsweetened",
+      "white"
+    ],
+    "macros": {
+      "carb": 7.59,
+      "protein": 0.55,
+      "fats": 0.7,
+      "fibre": 0.2
+    }
+  },
+  {
+    "fdcId": 325430,
+    "description": "Peaches, yellow, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "peaches",
+      "yellow"
+    ],
+    "macros": {
+      "carb": 10.1,
+      "protein": 0.91,
+      "fats": 0.27,
+      "fibre": 1.5
+    }
+  },
+  {
+    "fdcId": 325524,
+    "description": "Seeds, sunflower seed kernels, dry roasted, with salt added",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "dry",
+      "kernels",
+      "roasted",
+      "salt",
+      "seed",
+      "seeds",
+      "sunflower"
+    ],
+    "macros": {
+      "carb": 17.1,
+      "protein": 21.0,
+      "fats": 33.4,
+      "fibre": 10.3
+    }
+  },
+  {
+    "fdcId": 326196,
+    "description": "Kale, frozen, cooked, boiled, drained, without salt",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "boiled",
+      "drained",
+      "kale",
+      "salt"
+    ],
+    "macros": {
+      "carb": 5.3,
+      "protein": 2.94,
+      "fats": 1.21,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 326698,
+    "description": "Mustard, prepared, yellow",
+    "category": "Spices and Herbs",
+    "tokens": [
+      "mustard",
+      "prepared",
+      "yellow"
+    ],
+    "macros": {
+      "carb": 5.3,
+      "protein": 4.25,
+      "fats": 0.0,
+      "fibre": 4.3
+    }
+  },
+  {
+    "fdcId": 327046,
+    "description": "Kiwifruit, green, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "green",
+      "kiwifruit"
+    ],
+    "macros": {
+      "carb": 14.0,
+      "protein": 1.06,
+      "fats": 0.44,
+      "fibre": 3.0
+    }
+  },
+  {
+    "fdcId": 327357,
+    "description": "Nectarines, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "nectarines"
+    ],
+    "macros": {
+      "carb": 9.18,
+      "protein": 1.06,
+      "fats": 0.0,
+      "fibre": 1.5
+    }
+  },
+  {
+    "fdcId": 328637,
+    "description": "Cheese, cheddar",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cheddar",
+      "cheese"
+    ],
+    "macros": {
+      "carb": 2.44,
+      "protein": 23.3,
+      "fats": 1.18,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 328841,
+    "description": "Cheese, cottage, lowfat, 2% milkfat",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cheese",
+      "cottage",
+      "lowfat",
+      "milkfat"
+    ],
+    "macros": {
+      "carb": 4.31,
+      "protein": 11.0,
+      "fats": 2.3,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 329370,
+    "description": "Cheese, mozzarella, low moisture, part-skim",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cheese",
+      "low",
+      "moisture",
+      "mozzarella",
+      "part",
+      "skim"
+    ],
+    "macros": {
+      "carb": 4.44,
+      "protein": 23.7,
+      "fats": 11.7,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 329490,
+    "description": "Egg, whole, dried",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "dried",
+      "egg",
+      "whole"
+    ],
+    "macros": {
+      "carb": 1.87,
+      "protein": 48.1,
+      "fats": 39.8,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 329596,
+    "description": "Egg, yolk, raw, frozen, pasteurized",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "egg",
+      "pasteurized",
+      "yolk"
+    ],
+    "macros": {
+      "carb": 0.59,
+      "protein": 15.6,
+      "fats": 25.1,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 329716,
+    "description": "Egg, yolk, dried",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "dried",
+      "egg",
+      "yolk"
+    ],
+    "macros": {
+      "carb": 1.07,
+      "protein": 34.2,
+      "fats": 55.5,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 330137,
+    "description": "Yogurt, Greek, plain, nonfat",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "greek",
+      "nonfat",
+      "plain",
+      "yogurt"
+    ],
+    "macros": {
+      "carb": 3.64,
+      "protein": 10.3,
+      "fats": 0.01,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 330415,
+    "description": "Yogurt, Greek, strawberry, nonfat",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "greek",
+      "nonfat",
+      "strawberry",
+      "yogurt"
+    ],
+    "macros": {
+      "carb": 12.2,
+      "protein": 8.06,
+      "fats": 0.15,
+      "fibre": 0.6
+    }
+  },
+  {
+    "fdcId": 330458,
+    "description": "Oil, coconut",
+    "category": "Fats and Oils",
+    "tokens": [
+      "coconut",
+      "oil"
+    ],
+    "macros": {
+      "carb": 0.84,
+      "protein": 0.0,
+      "fats": 0.02,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 331897,
+    "description": "Chicken, broilers or fryers, drumstick, meat only, cooked, braised",
+    "category": "Poultry Products",
+    "tokens": [
+      "braised",
+      "broilers",
+      "chicken",
+      "drumstick",
+      "fryers",
+      "meat",
+      "only"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 23.9,
+      "fats": 0.03,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 331960,
+    "description": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",
+    "category": "Poultry Products",
+    "tokens": [
+      "boneless",
+      "braised",
+      "breast",
+      "broiler",
+      "chicken",
+      "fryers",
+      "meat",
+      "only",
+      "skinless"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 32.1,
+      "fats": 3.24,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 332282,
+    "description": "Sauce, pasta, spaghetti/marinara, ready-to-serve",
+    "category": "Soups, Sauces, and Gravies",
+    "tokens": [
+      "marinara",
+      "pasta",
+      "ready",
+      "sauce",
+      "serve",
+      "spaghetti"
+    ],
+    "macros": {
+      "carb": 8.05,
+      "protein": 1.41,
+      "fats": 0.0,
+      "fibre": 1.8
+    }
+  },
+  {
+    "fdcId": 332397,
+    "description": "Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",
+    "category": "Sausages and Luncheon Meats",
+    "tokens": [
+      "deli",
+      "fat",
+      "free",
+      "ham",
+      "meat",
+      "packaged",
+      "pre",
+      "sliced",
+      "water"
+    ],
+    "macros": {
+      "carb": 0.27,
+      "protein": 16.7,
+      "fats": 0.01,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 332791,
+    "description": "Olives, green, Manzanilla, stuffed with pimiento",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "green",
+      "manzanilla",
+      "olives",
+      "pimiento",
+      "stuffed"
+    ],
+    "macros": {
+      "carb": 4.96,
+      "protein": 1.15,
+      "fats": 12.9,
+      "fibre": 4.0
+    }
+  },
+  {
+    "fdcId": 333008,
+    "description": "Cookies, oatmeal, soft, with raisins",
+    "category": "Baked Products",
+    "tokens": [
+      "cookies",
+      "oatmeal",
+      "raisins",
+      "soft"
+    ],
+    "macros": {
+      "carb": 69.6,
+      "protein": 5.79,
+      "fats": 14.3,
+      "fibre": 3.3
+    }
+  },
+  {
+    "fdcId": 333281,
+    "description": "Tomatoes, canned, red, ripe, diced",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "diced",
+      "red",
+      "ripe",
+      "tomatoes"
+    ],
+    "macros": {
+      "carb": 3.32,
+      "protein": 0.84,
+      "fats": 0.5,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 333374,
+    "description": "Fish, haddock, raw",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "fish",
+      "haddock"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 16.3,
+      "fats": 0.06,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 333476,
+    "description": "Fish, pollock, raw",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "fish",
+      "pollock"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 12.3,
+      "fats": 0.41,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 334194,
+    "description": "Fish, tuna, light, canned in water, drained solids",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "drained",
+      "fish",
+      "light",
+      "tuna",
+      "water"
+    ],
+    "macros": {
+      "carb": 0.08,
+      "protein": 19.0,
+      "fats": 0.94,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 334536,
+    "description": "Restaurant, Chinese, fried rice, without meat",
+    "category": "Restaurant Foods",
+    "tokens": [
+      "chinese",
+      "fried",
+      "meat",
+      "restaurant",
+      "rice"
+    ],
+    "macros": {
+      "carb": 32.5,
+      "protein": 3.84,
+      "fats": 0.0,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 334628,
+    "description": "Restaurant, Latino, tamale, pork",
+    "category": "Restaurant Foods",
+    "tokens": [
+      "latino",
+      "pork",
+      "restaurant",
+      "tamale"
+    ],
+    "macros": {
+      "carb": 15.8,
+      "protein": 7.38,
+      "fats": 0.06,
+      "fibre": 2.4
+    }
+  },
+  {
+    "fdcId": 334720,
+    "description": "Restaurant, Latino, pupusas con frijoles (pupusas, bean)",
+    "category": "Restaurant Foods",
+    "tokens": [
+      "bean",
+      "con",
+      "frijoles",
+      "latino",
+      "pupusas",
+      "restaurant"
+    ],
+    "macros": {
+      "carb": 31.5,
+      "protein": 5.59,
+      "fats": 0.06,
+      "fibre": 5.8
+    }
+  },
+  {
+    "fdcId": 746758,
+    "description": "Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0\" fat, select, cooked, roasted",
+    "category": "Beef Products",
+    "tokens": [
+      "beef",
+      "boneless",
+      "fat",
+      "lean",
+      "loin",
+      "only",
+      "roast",
+      "roasted",
+      "select",
+      "separable",
+      "tenderloin",
+      "trimmed"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 27.7,
+      "fats": 6.36,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746759,
+    "description": "Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, choice, raw",
+    "category": "Beef Products",
+    "tokens": [
+      "beef",
+      "boneless",
+      "choice",
+      "fat",
+      "lean",
+      "lip",
+      "loin",
+      "only",
+      "separable",
+      "steak",
+      "top",
+      "trimmed"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 22.8,
+      "fats": 2.71,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746760,
+    "description": "Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+    "category": "Beef Products",
+    "tokens": [
+      "beef",
+      "boneless",
+      "eye",
+      "fat",
+      "lean",
+      "only",
+      "roast",
+      "round",
+      "select",
+      "separable",
+      "trimmed"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 23.4,
+      "fats": 0.13,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746761,
+    "description": "Beef, round, top round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+    "category": "Beef Products",
+    "tokens": [
+      "beef",
+      "boneless",
+      "fat",
+      "lean",
+      "only",
+      "roast",
+      "round",
+      "select",
+      "separable",
+      "top",
+      "trimmed"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 23.7,
+      "fats": 2.41,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746762,
+    "description": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8\" fat, select, raw",
+    "category": "Beef Products",
+    "tokens": [
+      "beef",
+      "fat",
+      "lean",
+      "loin",
+      "only",
+      "porterhouse",
+      "select",
+      "separable",
+      "short",
+      "steak",
+      "trimmed"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 22.7,
+      "fats": 5.32,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746763,
+    "description": "Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8\" fat, choice, cooked, grilled",
+    "category": "Beef Products",
+    "tokens": [
+      "beef",
+      "bone",
+      "choice",
+      "fat",
+      "grilled",
+      "lean",
+      "loin",
+      "only",
+      "separable",
+      "short",
+      "steak",
+      "trimmed"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 27.3,
+      "fats": 0.59,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746764,
+    "description": "Carrots, frozen, unprepared",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "carrots",
+      "unprepared"
+    ],
+    "macros": {
+      "carb": 7.92,
+      "protein": 0.81,
+      "fats": 0.47,
+      "fibre": 3.2
+    }
+  },
+  {
+    "fdcId": 746765,
+    "description": "Cheese, dry white, queso seco",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cheese",
+      "dry",
+      "queso",
+      "seco",
+      "white"
+    ],
+    "macros": {
+      "carb": 2.07,
+      "protein": 24.5,
+      "fats": 0.71,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746766,
+    "description": "Cheese, ricotta, whole milk",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cheese",
+      "milk",
+      "ricotta",
+      "whole"
+    ],
+    "macros": {
+      "carb": 6.86,
+      "protein": 7.81,
+      "fats": 0.35,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746767,
+    "description": "Cheese, swiss",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cheese",
+      "swiss"
+    ],
+    "macros": {
+      "carb": 1.44,
+      "protein": 27.0,
+      "fats": 7.26,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746768,
+    "description": "Figs, dried, uncooked",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "dried",
+      "figs",
+      "uncooked"
+    ],
+    "macros": {
+      "carb": 63.9,
+      "protein": 3.3,
+      "fats": 0.92,
+      "fibre": 9.8
+    }
+  },
+  {
+    "fdcId": 746769,
+    "description": "Lettuce, cos or romaine, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "cos",
+      "lettuce",
+      "romaine"
+    ],
+    "macros": {
+      "carb": 3.24,
+      "protein": 1.24,
+      "fats": 0.26,
+      "fibre": 1.8
+    }
+  },
+  {
+    "fdcId": 746770,
+    "description": "Melons, cantaloupe, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "cantaloupe",
+      "melons"
+    ],
+    "macros": {
+      "carb": 8.16,
+      "protein": 0.82,
+      "fats": 0.18,
+      "fibre": 0.8
+    }
+  },
+  {
+    "fdcId": 746771,
+    "description": "Oranges, raw, navels",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "navels",
+      "oranges"
+    ],
+    "macros": {
+      "carb": 11.8,
+      "protein": 0.91,
+      "fats": 0.15,
+      "fibre": 2.0
+    }
+  },
+  {
+    "fdcId": 746772,
+    "description": "Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "fluid",
+      "lowfat",
+      "milk",
+      "milkfat",
+      "vitamin"
+    ],
+    "macros": {
+      "carb": 5.18,
+      "protein": 3.38,
+      "fats": 0.95,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746773,
+    "description": "Pears, raw, bartlett",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "bartlett",
+      "pears"
+    ],
+    "macros": {
+      "carb": 15.1,
+      "protein": 0.38,
+      "fats": 0.16,
+      "fibre": 3.1
+    }
+  },
+  {
+    "fdcId": 746774,
+    "description": "Restaurant, Chinese, sweet and sour pork",
+    "category": "Restaurant Foods",
+    "tokens": [
+      "chinese",
+      "pork",
+      "restaurant",
+      "sour",
+      "sweet"
+    ],
+    "macros": {
+      "carb": 25.5,
+      "protein": 8.88,
+      "fats": 0.09,
+      "fibre": 1.0
+    }
+  },
+  {
+    "fdcId": 746775,
+    "description": "Salt, table, iodized",
+    "category": "Spices and Herbs",
+    "tokens": [
+      "iodized",
+      "salt",
+      "table"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.0,
+      "fats": 0.0,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746776,
+    "description": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "fat",
+      "fluid",
+      "free",
+      "milk",
+      "nonfat",
+      "skim",
+      "vitamin"
+    ],
+    "macros": {
+      "carb": 4.92,
+      "protein": 3.43,
+      "fats": 0.08,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746777,
+    "description": "Sauce, salsa, ready-to-serve",
+    "category": "Soups, Sauces, and Gravies",
+    "tokens": [
+      "ready",
+      "salsa",
+      "sauce",
+      "serve"
+    ],
+    "macros": {
+      "carb": 6.74,
+      "protein": 1.44,
+      "fats": 0.19,
+      "fibre": 1.8
+    }
+  },
+  {
+    "fdcId": 746778,
+    "description": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "fat",
+      "fluid",
+      "milk",
+      "milkfat",
+      "reduced",
+      "vitamin"
+    ],
+    "macros": {
+      "carb": 4.9,
+      "protein": 3.36,
+      "fats": 0.07,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746779,
+    "description": "Sausage, breakfast sausage, beef, pre-cooked, unprepared",
+    "category": "Sausages and Luncheon Meats",
+    "tokens": [
+      "beef",
+      "breakfast",
+      "pre",
+      "sausage",
+      "unprepared"
+    ],
+    "macros": {
+      "carb": 3.37,
+      "protein": 13.3,
+      "fats": 0.0,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746780,
+    "description": "Sausage, Italian, pork, mild, cooked, pan-fried",
+    "category": "Sausages and Luncheon Meats",
+    "tokens": [
+      "fried",
+      "italian",
+      "mild",
+      "pan",
+      "pork",
+      "sausage"
+    ],
+    "macros": {
+      "carb": 2.15,
+      "protein": 18.2,
+      "fats": 26.2,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746781,
+    "description": "Sausage, pork, chorizo, link or ground, cooked, pan-fried",
+    "category": "Sausages and Luncheon Meats",
+    "tokens": [
+      "chorizo",
+      "fried",
+      "ground",
+      "link",
+      "pan",
+      "pork",
+      "sausage"
+    ],
+    "macros": {
+      "carb": 2.63,
+      "protein": 19.3,
+      "fats": 28.1,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746782,
+    "description": "Milk, whole, 3.25% milkfat, with added vitamin D",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "milk",
+      "milkfat",
+      "vitamin",
+      "whole"
+    ],
+    "macros": {
+      "carb": 4.63,
+      "protein": 3.27,
+      "fats": 3.2,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746783,
+    "description": "Sausage, turkey, breakfast links, mild, raw",
+    "category": "Sausages and Luncheon Meats",
+    "tokens": [
+      "breakfast",
+      "links",
+      "mild",
+      "sausage",
+      "turkey"
+    ],
+    "macros": {
+      "carb": 0.93,
+      "protein": 16.7,
+      "fats": 0.1,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746784,
+    "description": "Sugars, granulated",
+    "category": "Sweets",
+    "tokens": [
+      "granulated",
+      "sugars"
+    ],
+    "macros": {
+      "carb": 99.6,
+      "protein": 0.0,
+      "fats": 0.32,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746785,
+    "description": "Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",
+    "category": "Poultry Products",
+    "tokens": [
+      "broiled",
+      "crumbles",
+      "fat",
+      "ground",
+      "lean",
+      "pan",
+      "turkey"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 27.1,
+      "fats": 11.6,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 746952,
+    "description": "Ham, sliced, restaurant",
+    "category": "Pork Products",
+    "tokens": [
+      "ham",
+      "restaurant",
+      "sliced"
+    ],
+    "macros": {
+      "carb": 2.36,
+      "protein": 19.6,
+      "fats": 1.6,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 747429,
+    "description": "Cheese, American, restaurant",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "american",
+      "cheese",
+      "restaurant"
+    ],
+    "macros": {
+      "carb": 6.35,
+      "protein": 17.5,
+      "fats": 1.01,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 747430,
+    "description": "Beans, Dry, Medium Red (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "dry",
+      "medium",
+      "moisture",
+      "red"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 25.5,
+      "fats": 1.04,
+      "fibre": 4.3
+    }
+  },
+  {
+    "fdcId": 747431,
+    "description": "Beans, Dry, Red (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "dry",
+      "moisture",
+      "red"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 21.3,
+      "fats": 1.16,
+      "fibre": 4.0
+    }
+  },
+  {
+    "fdcId": 747432,
+    "description": "Beans, Dry, Flor de Mayo (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "dry",
+      "flor",
+      "mayo",
+      "moisture"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 23.3,
+      "fats": 0.86,
+      "fibre": 4.0
+    }
+  },
+  {
+    "fdcId": 747433,
+    "description": "Beans, Dry, Brown (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "brown",
+      "dry",
+      "moisture"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 25.6,
+      "fats": 1.12,
+      "fibre": 4.1
+    }
+  },
+  {
+    "fdcId": 747434,
+    "description": "Beans, Dry, Tan (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "dry",
+      "moisture",
+      "tan"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 26.8,
+      "fats": 1.14,
+      "fibre": 4.4
+    }
+  },
+  {
+    "fdcId": 747435,
+    "description": "Beans, Dry, Light Tan (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "dry",
+      "light",
+      "moisture",
+      "tan"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 24.6,
+      "fats": 1.28,
+      "fibre": 4.3
+    }
+  },
+  {
+    "fdcId": 747436,
+    "description": "Beans, Dry, Carioca (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "carioca",
+      "dry",
+      "moisture"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 25.2,
+      "fats": 1.44,
+      "fibre": 4.5
+    }
+  },
+  {
+    "fdcId": 747437,
+    "description": "Beans, Dry, Cranberry (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "cranberry",
+      "dry",
+      "moisture"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 24.4,
+      "fats": 1.23,
+      "fibre": 4.3
+    }
+  },
+  {
+    "fdcId": 747438,
+    "description": "Beans, Dry, Light Red Kidney (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "dry",
+      "kidney",
+      "light",
+      "moisture",
+      "red"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 25.0,
+      "fats": 1.03,
+      "fibre": 4.5
+    }
+  },
+  {
+    "fdcId": 747439,
+    "description": "Beans, Dry, Pink (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "dry",
+      "moisture",
+      "pink"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 23.4,
+      "fats": 1.2,
+      "fibre": 4.1
+    }
+  },
+  {
+    "fdcId": 747440,
+    "description": "Beans, Dry, Dark Red Kidney (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "dark",
+      "dry",
+      "kidney",
+      "moisture",
+      "red"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 25.9,
+      "fats": 1.31,
+      "fibre": 4.3
+    }
+  },
+  {
+    "fdcId": 747441,
+    "description": "Beans, Dry, Navy (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "dry",
+      "moisture",
+      "navy"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 24.1,
+      "fats": 1.51,
+      "fibre": 4.3
+    }
+  },
+  {
+    "fdcId": 747442,
+    "description": "Beans, Dry, Small White (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "dry",
+      "moisture",
+      "small",
+      "white"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 24.5,
+      "fats": 1.32,
+      "fibre": 4.3
+    }
+  },
+  {
+    "fdcId": 747443,
+    "description": "Beans, Dry, Small Red (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "dry",
+      "moisture",
+      "red",
+      "small"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 23.5,
+      "fats": 1.28,
+      "fibre": 4.1
+    }
+  },
+  {
+    "fdcId": 747444,
+    "description": "Beans, Dry, Black (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "black",
+      "dry",
+      "moisture"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 24.4,
+      "fats": 1.45,
+      "fibre": 4.2
+    }
+  },
+  {
+    "fdcId": 747445,
+    "description": "Beans, Dry, Pinto (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "dry",
+      "moisture",
+      "pinto"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 23.7,
+      "fats": 1.24,
+      "fibre": 4.1
+    }
+  },
+  {
+    "fdcId": 747446,
+    "description": "Beans, Dry, Great Northern (0% moisture)",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "dry",
+      "great",
+      "moisture",
+      "northern"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 24.7,
+      "fats": 1.24,
+      "fibre": 4.3
+    }
+  },
+  {
+    "fdcId": 747447,
+    "description": "Broccoli, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "broccoli"
+    ],
+    "macros": {
+      "carb": 6.27,
+      "protein": 2.57,
+      "fats": 0.01,
+      "fibre": 2.4
+    }
+  },
+  {
+    "fdcId": 747693,
+    "description": "Ketchup, restaurant",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "ketchup",
+      "restaurant"
+    ],
+    "macros": {
+      "carb": 26.8,
+      "protein": 1.11,
+      "fats": 0.55,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 747997,
+    "description": "Eggs, Grade A, Large, egg white",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "egg",
+      "eggs",
+      "grade",
+      "large",
+      "white"
+    ],
+    "macros": {
+      "carb": 2.36,
+      "protein": 10.7,
+      "fats": 0.0,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 748236,
+    "description": "Eggs, Grade A, Large, egg yolk",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "egg",
+      "eggs",
+      "grade",
+      "large",
+      "yolk"
+    ],
+    "macros": {
+      "carb": 1.02,
+      "protein": 16.2,
+      "fats": 28.8,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 748278,
+    "description": "Oil, canola",
+    "category": "Fats and Oils",
+    "tokens": [
+      "canola",
+      "oil"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.0,
+      "fats": 62.6,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 748323,
+    "description": "Oil, corn",
+    "category": "Fats and Oils",
+    "tokens": [
+      "corn",
+      "oil"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.0,
+      "fats": 13.4,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 748366,
+    "description": "Oil, soybean",
+    "category": "Fats and Oils",
+    "tokens": [
+      "oil",
+      "soybean"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.0,
+      "fats": 22.1,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 748608,
+    "description": "Oil, olive, extra virgin",
+    "category": "Fats and Oils",
+    "tokens": [
+      "extra",
+      "oil",
+      "olive",
+      "virgin"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.0,
+      "fats": 15.4,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 748967,
+    "description": "Eggs, Grade A, Large, egg whole",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "egg",
+      "eggs",
+      "grade",
+      "large",
+      "whole"
+    ],
+    "macros": {
+      "carb": 0.96,
+      "protein": 12.4,
+      "fats": 3.2,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 749420,
+    "description": "Pork, cured, bacon, cooked, restaurant",
+    "category": "Pork Products",
+    "tokens": [
+      "bacon",
+      "cured",
+      "pork",
+      "restaurant"
+    ],
+    "macros": {
+      "carb": 2.1,
+      "protein": 40.9,
+      "fats": 12.6,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 789828,
+    "description": "Butter, stick, unsalted",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "butter",
+      "stick",
+      "unsalted"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.0,
+      "fats": 81.5,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 789890,
+    "description": "Flour, wheat, all-purpose, enriched, bleached",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "all",
+      "bleached",
+      "enriched",
+      "flour",
+      "purpose",
+      "wheat"
+    ],
+    "macros": {
+      "carb": 77.3,
+      "protein": 10.9,
+      "fats": 1.48,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 789951,
+    "description": "Flour, wheat, all-purpose, enriched, unbleached",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "all",
+      "enriched",
+      "flour",
+      "purpose",
+      "unbleached",
+      "wheat"
+    ],
+    "macros": {
+      "carb": 73.2,
+      "protein": 13.1,
+      "fats": 1.48,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 790018,
+    "description": "Flour, wheat, all-purpose, unenriched, unbleached",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "all",
+      "flour",
+      "purpose",
+      "unbleached",
+      "unenriched",
+      "wheat"
+    ],
+    "macros": {
+      "carb": 74.6,
+      "protein": 12.0,
+      "fats": 1.7,
+      "fibre": 3.0
+    }
+  },
+  {
+    "fdcId": 790085,
+    "description": "Flour, whole wheat, unenriched",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "flour",
+      "unenriched",
+      "wheat",
+      "whole"
+    ],
+    "macros": {
+      "carb": 71.2,
+      "protein": 15.1,
+      "fats": 2.73,
+      "fibre": 10.6
+    }
+  },
+  {
+    "fdcId": 790146,
+    "description": "Flour, bread, white, enriched, unbleached",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "bread",
+      "enriched",
+      "flour",
+      "unbleached",
+      "white"
+    ],
+    "macros": {
+      "carb": 72.8,
+      "protein": 14.3,
+      "fats": 1.65,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 790214,
+    "description": "Flour, rice, white, unenriched",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "flour",
+      "rice",
+      "unenriched",
+      "white"
+    ],
+    "macros": {
+      "carb": 79.8,
+      "protein": 6.94,
+      "fats": 1.3,
+      "fibre": 0.5
+    }
+  },
+  {
+    "fdcId": 790276,
+    "description": "Flour, corn, yellow, fine meal, enriched",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "corn",
+      "enriched",
+      "fine",
+      "flour",
+      "meal",
+      "yellow"
+    ],
+    "macros": {
+      "carb": 80.8,
+      "protein": 6.2,
+      "fats": 1.74,
+      "fibre": 4.3
+    }
+  },
+  {
+    "fdcId": 790508,
+    "description": "Butter, stick, salted",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "butter",
+      "salted",
+      "stick"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.0,
+      "fats": 16.9,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 790577,
+    "description": "Onions, red, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "onions",
+      "red"
+    ],
+    "macros": {
+      "carb": 9.93,
+      "protein": 0.94,
+      "fats": 0.1,
+      "fibre": 2.2
+    }
+  },
+  {
+    "fdcId": 790646,
+    "description": "Onions, yellow, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "onions",
+      "yellow"
+    ],
+    "macros": {
+      "carb": 8.61,
+      "protein": 0.83,
+      "fats": 0.05,
+      "fibre": 1.9
+    }
+  },
+  {
+    "fdcId": 1104647,
+    "description": "Garlic, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "garlic"
+    ],
+    "macros": {
+      "carb": 28.2,
+      "protein": 6.62,
+      "fats": 0.38,
+      "fibre": 2.7
+    }
+  },
+  {
+    "fdcId": 1104705,
+    "description": "Flour, soy, defatted",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "defatted",
+      "flour",
+      "soy"
+    ],
+    "macros": {
+      "carb": 32.9,
+      "protein": 51.1,
+      "fats": 3.33,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 1104766,
+    "description": "Flour, soy, full-fat",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "fat",
+      "flour",
+      "full",
+      "soy"
+    ],
+    "macros": {
+      "carb": 27.9,
+      "protein": 38.6,
+      "fats": 20.7,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 1104812,
+    "description": "Flour, rice, brown",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "brown",
+      "flour",
+      "rice"
+    ],
+    "macros": {
+      "carb": 75.5,
+      "protein": 7.19,
+      "fats": 3.85,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 1104867,
+    "description": "Flour, rice, glutinous",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "flour",
+      "glutinous",
+      "rice"
+    ],
+    "macros": {
+      "carb": 80.1,
+      "protein": 6.69,
+      "fats": 1.16,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 1104913,
+    "description": "Flour, pastry, unenriched, unbleached",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "flour",
+      "pastry",
+      "unbleached",
+      "unenriched"
+    ],
+    "macros": {
+      "carb": 77.2,
+      "protein": 8.75,
+      "fats": 1.64,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 1104962,
+    "description": "Onions, white, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "onions",
+      "white"
+    ],
+    "macros": {
+      "carb": 7.68,
+      "protein": 0.89,
+      "fats": 0.13,
+      "fibre": 1.2
+    }
+  },
+  {
+    "fdcId": 1105073,
+    "description": "Bananas, overripe, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "bananas",
+      "overripe"
+    ],
+    "macros": {
+      "carb": 20.1,
+      "protein": 0.73,
+      "fats": 0.22,
+      "fibre": 1.7
+    }
+  },
+  {
+    "fdcId": 1105314,
+    "description": "Bananas, ripe and slightly ripe, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "bananas",
+      "ripe",
+      "slightly"
+    ],
+    "macros": {
+      "carb": 23.0,
+      "protein": 0.74,
+      "fats": 0.29,
+      "fibre": 1.7
+    }
+  },
+  {
+    "fdcId": 1750339,
+    "description": "Apples, red delicious, with skin, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "apples",
+      "delicious",
+      "red",
+      "skin"
+    ],
+    "macros": {
+      "carb": 14.8,
+      "protein": 0.19,
+      "fats": 0.21,
+      "fibre": 2.04
+    }
+  },
+  {
+    "fdcId": 1750340,
+    "description": "Apples, fuji, with skin, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "apples",
+      "fuji",
+      "skin"
+    ],
+    "macros": {
+      "carb": 15.7,
+      "protein": 0.15,
+      "fats": 0.16,
+      "fibre": 2.08
+    }
+  },
+  {
+    "fdcId": 1750341,
+    "description": "Apples, gala, with skin, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "apples",
+      "gala",
+      "skin"
+    ],
+    "macros": {
+      "carb": 14.8,
+      "protein": 0.13,
+      "fats": 0.15,
+      "fibre": 2.11
+    }
+  },
+  {
+    "fdcId": 1750342,
+    "description": "Apples, granny smith, with skin, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "apples",
+      "granny",
+      "skin",
+      "smith"
+    ],
+    "macros": {
+      "carb": 14.1,
+      "protein": 0.27,
+      "fats": 0.14,
+      "fibre": 2.51
+    }
+  },
+  {
+    "fdcId": 1750343,
+    "description": "Apples, honeycrisp, with skin, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "apples",
+      "honeycrisp",
+      "skin"
+    ],
+    "macros": {
+      "carb": 14.7,
+      "protein": 0.1,
+      "fats": 0.1,
+      "fibre": 1.72
+    }
+  },
+  {
+    "fdcId": 1750348,
+    "description": "Oil, peanut",
+    "category": "Fats and Oils",
+    "tokens": [
+      "oil",
+      "peanut"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.0,
+      "fats": 57.1,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 1750349,
+    "description": "Oil, sunflower",
+    "category": "Fats and Oils",
+    "tokens": [
+      "oil",
+      "sunflower"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.0,
+      "fats": 63.4,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 1750350,
+    "description": "Oil, safflower",
+    "category": "Fats and Oils",
+    "tokens": [
+      "oil",
+      "safflower"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.0,
+      "fats": 71.6,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 1750351,
+    "description": "Oil, olive, extra light",
+    "category": "Fats and Oils",
+    "tokens": [
+      "extra",
+      "light",
+      "oil",
+      "olive"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.0,
+      "fats": 66.6,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 1999626,
+    "description": "Mushroom, lion's mane",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "lion",
+      "mane",
+      "mushroom"
+    ],
+    "macros": {
+      "carb": 7.59,
+      "protein": 2.5,
+      "fats": 0.26,
+      "fibre": 4.38
+    }
+  },
+  {
+    "fdcId": 1999627,
+    "description": "Mushroom, oyster",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "mushroom",
+      "oyster"
+    ],
+    "macros": {
+      "carb": 6.94,
+      "protein": 2.9,
+      "fats": 0.19,
+      "fibre": 2.85
+    }
+  },
+  {
+    "fdcId": 1999628,
+    "description": "Mushrooms, shiitake",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "mushrooms",
+      "shiitake"
+    ],
+    "macros": {
+      "carb": 8.17,
+      "protein": 2.41,
+      "fats": 0.2,
+      "fibre": 4.17
+    }
+  },
+  {
+    "fdcId": 1999629,
+    "description": "Mushrooms, white button",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "button",
+      "mushrooms",
+      "white"
+    ],
+    "macros": {
+      "carb": 4.08,
+      "protein": 2.89,
+      "fats": 0.37,
+      "fibre": 1.72
+    }
+  },
+  {
+    "fdcId": 1999630,
+    "description": "Soy milk, unsweetened, plain, shelf stable",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "milk",
+      "plain",
+      "shelf",
+      "soy",
+      "stable",
+      "unsweetened"
+    ],
+    "macros": {
+      "carb": 1.29,
+      "protein": 3.55,
+      "fats": 0.42,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 1999631,
+    "description": "Almond milk, unsweetened, plain, shelf stable",
+    "category": "Beverages",
+    "tokens": [
+      "almond",
+      "milk",
+      "plain",
+      "shelf",
+      "stable",
+      "unsweetened"
+    ],
+    "macros": {
+      "carb": 0.34,
+      "protein": 0.56,
+      "fats": 0.73,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 1999632,
+    "description": "Spinach, baby",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "baby",
+      "spinach"
+    ],
+    "macros": {
+      "carb": 2.41,
+      "protein": 2.85,
+      "fats": 0.62,
+      "fibre": 1.56
+    }
+  },
+  {
+    "fdcId": 1999633,
+    "description": "Spinach, mature",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "mature",
+      "spinach"
+    ],
+    "macros": {
+      "carb": 2.64,
+      "protein": 2.91,
+      "fats": 0.6,
+      "fibre": 1.59
+    }
+  },
+  {
+    "fdcId": 1999634,
+    "description": "Tomato, roma",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "roma",
+      "tomato"
+    ],
+    "macros": {
+      "carb": 3.84,
+      "protein": 0.7,
+      "fats": 0.42,
+      "fibre": 0.97
+    }
+  },
+  {
+    "fdcId": 2003586,
+    "description": "Flour, 00",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "flour"
+    ],
+    "macros": {
+      "carb": 74.4,
+      "protein": 11.4,
+      "fats": 1.52,
+      "fibre": 2.66
+    }
+  },
+  {
+    "fdcId": 2003587,
+    "description": "Flour, spelt, whole grain",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "flour",
+      "grain",
+      "spelt",
+      "whole"
+    ],
+    "macros": {
+      "carb": 70.7,
+      "protein": 14.5,
+      "fats": 2.54,
+      "fibre": 9.34
+    }
+  },
+  {
+    "fdcId": 2003588,
+    "description": "Flour, semolina, coarse and semi-coarse",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "coarse",
+      "flour",
+      "semi",
+      "semolina"
+    ],
+    "macros": {
+      "carb": 73.8,
+      "protein": 11.7,
+      "fats": 1.6,
+      "fibre": 3.22
+    }
+  },
+  {
+    "fdcId": 2003589,
+    "description": "Flour, semolina, fine",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "fine",
+      "flour",
+      "semolina"
+    ],
+    "macros": {
+      "carb": 72.0,
+      "protein": 13.3,
+      "fats": 1.84,
+      "fibre": 3.68
+    }
+  },
+  {
+    "fdcId": 2003590,
+    "description": "Apple juice, with added vitamin C, from concentrate, shelf stable",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "apple",
+      "concentrate",
+      "juice",
+      "shelf",
+      "stable",
+      "vitamin"
+    ],
+    "macros": {
+      "carb": 11.4,
+      "protein": 0.09,
+      "fats": 0.29,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2003591,
+    "description": "Orange juice, no pulp, not fortified, from concentrate, refrigerated",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "concentrate",
+      "fortified",
+      "juice",
+      "not",
+      "orange",
+      "pulp",
+      "refrigerated"
+    ],
+    "macros": {
+      "carb": 10.3,
+      "protein": 0.73,
+      "fats": 0.33,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2003592,
+    "description": "Grape juice, purple, with added vitamin C, from concentrate, shelf stable",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "concentrate",
+      "grape",
+      "juice",
+      "purple",
+      "shelf",
+      "stable",
+      "vitamin"
+    ],
+    "macros": {
+      "carb": 15.6,
+      "protein": 0.26,
+      "fats": 0.29,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2003593,
+    "description": "Grape juice, white, with added vitamin C, from concentrate, shelf stable",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "concentrate",
+      "grape",
+      "juice",
+      "shelf",
+      "stable",
+      "vitamin",
+      "white"
+    ],
+    "macros": {
+      "carb": 15.8,
+      "protein": 0.09,
+      "fats": 0.27,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2003594,
+    "description": "Cranberry juice, not fortified, from concentrate, shelf stable",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "concentrate",
+      "cranberry",
+      "fortified",
+      "juice",
+      "not",
+      "shelf",
+      "stable"
+    ],
+    "macros": {
+      "carb": 7.26,
+      "protein": 0.0,
+      "fats": 0.34,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2003595,
+    "description": "Grapefruit juice, red, not fortified, not from concentrate, refrigerated",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "concentrate",
+      "fortified",
+      "grapefruit",
+      "juice",
+      "not",
+      "red",
+      "refrigerated"
+    ],
+    "macros": {
+      "carb": 9.1,
+      "protein": 0.57,
+      "fats": 0.27,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2003596,
+    "description": "Tomato juice, with added ingredients, from concentrate, shelf stable",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "concentrate",
+      "ingredients",
+      "juice",
+      "shelf",
+      "stable",
+      "tomato"
+    ],
+    "macros": {
+      "carb": 4.32,
+      "protein": 0.86,
+      "fats": 0.29,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2003597,
+    "description": "Orange juice, no pulp, not fortified, not from concentrate, refrigerated",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "concentrate",
+      "fortified",
+      "juice",
+      "not",
+      "orange",
+      "pulp",
+      "refrigerated"
+    ],
+    "macros": {
+      "carb": 10.0,
+      "protein": 0.81,
+      "fats": 0.36,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2003598,
+    "description": "Mushroom, portabella",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "mushroom",
+      "portabella"
+    ],
+    "macros": {
+      "carb": 4.66,
+      "protein": 2.75,
+      "fats": 0.31,
+      "fibre": 1.88
+    }
+  },
+  {
+    "fdcId": 2003599,
+    "description": "Mushroom, king oyster",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "king",
+      "mushroom",
+      "oyster"
+    ],
+    "macros": {
+      "carb": 8.5,
+      "protein": 2.41,
+      "fats": 0.31,
+      "fibre": 3.01
+    }
+  },
+  {
+    "fdcId": 2003600,
+    "description": "Mushroom, enoki",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "enoki",
+      "mushroom"
+    ],
+    "macros": {
+      "carb": 8.14,
+      "protein": 2.42,
+      "fats": 0.24,
+      "fibre": 2.94
+    }
+  },
+  {
+    "fdcId": 2003601,
+    "description": "Mushroom, crimini",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "crimini",
+      "mushroom"
+    ],
+    "macros": {
+      "carb": 4.01,
+      "protein": 3.09,
+      "fats": 0.2,
+      "fibre": 1.78
+    }
+  },
+  {
+    "fdcId": 2003602,
+    "description": "Mushroom, maitake",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "maitake",
+      "mushroom"
+    ],
+    "macros": {
+      "carb": 6.6,
+      "protein": 2.2,
+      "fats": 0.27,
+      "fibre": 3.07
+    }
+  },
+  {
+    "fdcId": 2003603,
+    "description": "Mushroom, beech",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "beech",
+      "mushroom"
+    ],
+    "macros": {
+      "carb": 6.76,
+      "protein": 2.18,
+      "fats": 0.45,
+      "fibre": 3.14
+    }
+  },
+  {
+    "fdcId": 2003604,
+    "description": "Mushroom, pioppini",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "mushroom",
+      "pioppini"
+    ],
+    "macros": {
+      "carb": 5.76,
+      "protein": 3.5,
+      "fats": 0.24,
+      "fibre": 2.75
+    }
+  },
+  {
+    "fdcId": 2257044,
+    "description": "Soy milk, sweetened, plain, refrigerated",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "milk",
+      "plain",
+      "refrigerated",
+      "soy",
+      "sweetened"
+    ],
+    "macros": {
+      "carb": 3.0,
+      "protein": 2.78,
+      "fats": 1.96,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2257045,
+    "description": "Almond milk, unsweetened, plain, refrigerated",
+    "category": "Beverages",
+    "tokens": [
+      "almond",
+      "milk",
+      "plain",
+      "refrigerated",
+      "unsweetened"
+    ],
+    "macros": {
+      "carb": 0.67,
+      "protein": 0.66,
+      "fats": 1.56,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2257046,
+    "description": "Oat milk, unsweetened, plain, refrigerated",
+    "category": "Beverages",
+    "tokens": [
+      "milk",
+      "oat",
+      "plain",
+      "refrigerated",
+      "unsweetened"
+    ],
+    "macros": {
+      "carb": 5.1,
+      "protein": 0.8,
+      "fats": 2.75,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2258586,
+    "description": "Carrots, mature, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "carrots",
+      "mature"
+    ],
+    "macros": {
+      "carb": 10.3,
+      "protein": 0.94,
+      "fats": 0.35,
+      "fibre": 3.1
+    }
+  },
+  {
+    "fdcId": 2258587,
+    "description": "Carrots, baby, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "baby",
+      "carrots"
+    ],
+    "macros": {
+      "carb": 9.08,
+      "protein": 0.81,
+      "fats": 0.14,
+      "fibre": 2.69
+    }
+  },
+  {
+    "fdcId": 2258588,
+    "description": "Peppers, bell, green, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "bell",
+      "green",
+      "peppers"
+    ],
+    "macros": {
+      "carb": 4.78,
+      "protein": 0.71,
+      "fats": 0.11,
+      "fibre": 0.94
+    }
+  },
+  {
+    "fdcId": 2258589,
+    "description": "Peppers, bell, yellow, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "bell",
+      "peppers",
+      "yellow"
+    ],
+    "macros": {
+      "carb": 6.6,
+      "protein": 0.82,
+      "fats": 0.12,
+      "fibre": 1.07
+    }
+  },
+  {
+    "fdcId": 2258590,
+    "description": "Peppers, bell, red, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "bell",
+      "peppers",
+      "red"
+    ],
+    "macros": {
+      "carb": 6.65,
+      "protein": 0.9,
+      "fats": 0.13,
+      "fibre": 1.16
+    }
+  },
+  {
+    "fdcId": 2258591,
+    "description": "Peppers, bell, orange, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "bell",
+      "orange",
+      "peppers"
+    ],
+    "macros": {
+      "carb": 6.7,
+      "protein": 0.88,
+      "fats": 0.16,
+      "fibre": 0.97
+    }
+  },
+  {
+    "fdcId": 2259792,
+    "description": "Buttermilk, low fat",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "buttermilk",
+      "fat",
+      "low"
+    ],
+    "macros": {
+      "carb": 4.81,
+      "protein": 3.46,
+      "fats": 0.2,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2259793,
+    "description": "Yogurt, plain, whole milk",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "milk",
+      "plain",
+      "whole",
+      "yogurt"
+    ],
+    "macros": {
+      "carb": 5.57,
+      "protein": 3.82,
+      "fats": 0.87,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2259794,
+    "description": "Yogurt, Greek, plain, whole milk",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "greek",
+      "milk",
+      "plain",
+      "whole",
+      "yogurt"
+    ],
+    "macros": {
+      "carb": 4.75,
+      "protein": 8.78,
+      "fats": 0.96,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2259795,
+    "description": "Cheese, parmesan, grated, refrigerated",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cheese",
+      "grated",
+      "parmesan",
+      "refrigerated"
+    ],
+    "macros": {
+      "carb": 4.33,
+      "protein": 30.1,
+      "fats": 6.02,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2259796,
+    "description": "Cheese, feta, whole milk, crumbled",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cheese",
+      "crumbled",
+      "feta",
+      "milk",
+      "whole"
+    ],
+    "macros": {
+      "carb": 5.58,
+      "protein": 19.7,
+      "fats": 4.18,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2261420,
+    "description": "Flour, almond",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "almond",
+      "flour"
+    ],
+    "macros": {
+      "carb": 16.2,
+      "protein": 26.2,
+      "fats": 50.2,
+      "fibre": 9.27
+    }
+  },
+  {
+    "fdcId": 2261421,
+    "description": "Flour, oat, whole grain",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "flour",
+      "grain",
+      "oat",
+      "whole"
+    ],
+    "macros": {
+      "carb": 69.9,
+      "protein": 13.2,
+      "fats": 6.31,
+      "fibre": 10.5
+    }
+  },
+  {
+    "fdcId": 2261422,
+    "description": "Flour, potato",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "flour",
+      "potato"
+    ],
+    "macros": {
+      "carb": 79.9,
+      "protein": 8.11,
+      "fats": 0.95,
+      "fibre": 5.4
+    }
+  },
+  {
+    "fdcId": 2262072,
+    "description": "Peanut butter, creamy",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "butter",
+      "creamy",
+      "peanut"
+    ],
+    "macros": {
+      "carb": 22.7,
+      "protein": 24.0,
+      "fats": 30.7,
+      "fibre": 6.32
+    }
+  },
+  {
+    "fdcId": 2262073,
+    "description": "Sesame butter, creamy",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "butter",
+      "creamy",
+      "sesame"
+    ],
+    "macros": {
+      "carb": 14.2,
+      "protein": 19.7,
+      "fats": 22.6,
+      "fibre": 8.37
+    }
+  },
+  {
+    "fdcId": 2262074,
+    "description": "Almond butter, creamy",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "almond",
+      "butter",
+      "creamy"
+    ],
+    "macros": {
+      "carb": 21.2,
+      "protein": 20.8,
+      "fats": 34.7,
+      "fibre": 9.72
+    }
+  },
+  {
+    "fdcId": 2262075,
+    "description": "Flaxseed, ground",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "flaxseed",
+      "ground"
+    ],
+    "macros": {
+      "carb": 34.4,
+      "protein": 18.0,
+      "fats": 5.94,
+      "fibre": 23.1
+    }
+  },
+  {
+    "fdcId": 2346384,
+    "description": "Cottage cheese, full fat, large or small curd",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cheese",
+      "cottage",
+      "curd",
+      "fat",
+      "full",
+      "large",
+      "small"
+    ],
+    "macros": {
+      "carb": 4.6,
+      "protein": 11.6,
+      "fats": 0.92,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346385,
+    "description": "Cream cheese, full fat, block",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "block",
+      "cheese",
+      "cream",
+      "fat",
+      "full"
+    ],
+    "macros": {
+      "carb": 4.56,
+      "protein": 5.79,
+      "fats": 6.92,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346386,
+    "description": "Cream, heavy",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cream",
+      "heavy"
+    ],
+    "macros": {
+      "carb": 3.8,
+      "protein": 2.02,
+      "fats": 7.34,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346387,
+    "description": "Cream, sour, full fat",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cream",
+      "fat",
+      "full",
+      "sour"
+    ],
+    "macros": {
+      "carb": 5.56,
+      "protein": 3.07,
+      "fats": 3.8,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346388,
+    "description": "Lettuce, iceberg, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "iceberg",
+      "lettuce"
+    ],
+    "macros": {
+      "carb": 3.37,
+      "protein": 0.74,
+      "fats": 0.07,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346389,
+    "description": "Lettuce, romaine, green, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "green",
+      "lettuce",
+      "romaine"
+    ],
+    "macros": {
+      "carb": 4.06,
+      "protein": 0.98,
+      "fats": 0.07,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346390,
+    "description": "Lettuce, leaf, red, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "leaf",
+      "lettuce",
+      "red"
+    ],
+    "macros": {
+      "carb": 3.26,
+      "protein": 0.88,
+      "fats": 0.11,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346391,
+    "description": "Lettuce, leaf, green, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "green",
+      "leaf",
+      "lettuce"
+    ],
+    "macros": {
+      "carb": 4.07,
+      "protein": 1.09,
+      "fats": 0.16,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346392,
+    "description": "Nuts, pine nuts, raw",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "nuts",
+      "pine"
+    ],
+    "macros": {
+      "carb": 18.6,
+      "protein": 15.7,
+      "fats": 61.3,
+      "fibre": 3.94
+    }
+  },
+  {
+    "fdcId": 2346393,
+    "description": "Nuts, almonds, whole, raw",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "almonds",
+      "nuts",
+      "whole"
+    ],
+    "macros": {
+      "carb": 20.0,
+      "protein": 21.5,
+      "fats": 51.1,
+      "fibre": 10.8
+    }
+  },
+  {
+    "fdcId": 2346394,
+    "description": "Nuts, walnuts, English, halves, raw",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "english",
+      "halves",
+      "nuts",
+      "walnuts"
+    ],
+    "macros": {
+      "carb": 10.9,
+      "protein": 14.6,
+      "fats": 69.7,
+      "fibre": 5.21
+    }
+  },
+  {
+    "fdcId": 2346395,
+    "description": "Nuts, pecans, halves, raw",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "halves",
+      "nuts",
+      "pecans"
+    ],
+    "macros": {
+      "carb": 12.7,
+      "protein": 9.96,
+      "fats": 73.3,
+      "fibre": 5.79
+    }
+  },
+  {
+    "fdcId": 2346396,
+    "description": "Oats, whole grain, rolled, old fashioned",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "fashioned",
+      "grain",
+      "oats",
+      "old",
+      "rolled",
+      "whole"
+    ],
+    "macros": {
+      "carb": 68.7,
+      "protein": 13.5,
+      "fats": 5.89,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346397,
+    "description": "Oats, whole grain, steel cut",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "cut",
+      "grain",
+      "oats",
+      "steel",
+      "whole"
+    ],
+    "macros": {
+      "carb": 69.8,
+      "protein": 12.5,
+      "fats": 5.8,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346398,
+    "description": "Pineapple, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "pineapple"
+    ],
+    "macros": {
+      "carb": 14.1,
+      "protein": 0.46,
+      "fats": 0.21,
+      "fibre": 0.94
+    }
+  },
+  {
+    "fdcId": 2346399,
+    "description": "Cherries, sweet, dark red, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "cherries",
+      "dark",
+      "red",
+      "sweet"
+    ],
+    "macros": {
+      "carb": 16.2,
+      "protein": 1.04,
+      "fats": 0.19,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346400,
+    "description": "Beans, snap, green, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "beans",
+      "green",
+      "snap"
+    ],
+    "macros": {
+      "carb": 7.41,
+      "protein": 1.97,
+      "fats": 0.28,
+      "fibre": 3.01
+    }
+  },
+  {
+    "fdcId": 2346401,
+    "description": "Potatoes, russet, without skin, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "potatoes",
+      "russet",
+      "skin"
+    ],
+    "macros": {
+      "carb": 17.8,
+      "protein": 2.27,
+      "fats": 0.36,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346402,
+    "description": "Potatoes, red, without skin, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "potatoes",
+      "red",
+      "skin"
+    ],
+    "macros": {
+      "carb": 16.3,
+      "protein": 2.06,
+      "fats": 0.25,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346403,
+    "description": "Potatoes, gold, without skin, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "gold",
+      "potatoes",
+      "skin"
+    ],
+    "macros": {
+      "carb": 16.0,
+      "protein": 1.81,
+      "fats": 0.26,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346404,
+    "description": "Sweet potatoes, orange flesh, without skin, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "flesh",
+      "orange",
+      "potatoes",
+      "skin",
+      "sweet"
+    ],
+    "macros": {
+      "carb": 17.3,
+      "protein": 1.58,
+      "fats": 0.38,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346405,
+    "description": "Celery, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "celery"
+    ],
+    "macros": {
+      "carb": 3.32,
+      "protein": 0.49,
+      "fats": 0.16,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346406,
+    "description": "Cucumber, with peel, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "cucumber",
+      "peel"
+    ],
+    "macros": {
+      "carb": 2.95,
+      "protein": 0.62,
+      "fats": 0.18,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346407,
+    "description": "Cabbage, green, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "cabbage",
+      "green"
+    ],
+    "macros": {
+      "carb": 6.38,
+      "protein": 0.96,
+      "fats": 0.23,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346408,
+    "description": "Cabbage, red, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "cabbage",
+      "red"
+    ],
+    "macros": {
+      "carb": 6.79,
+      "protein": 1.24,
+      "fats": 0.21,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346409,
+    "description": "Strawberries, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "strawberries"
+    ],
+    "macros": {
+      "carb": 7.96,
+      "protein": 0.64,
+      "fats": 0.22,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346410,
+    "description": "Raspberries, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "raspberries"
+    ],
+    "macros": {
+      "carb": 12.9,
+      "protein": 1.01,
+      "fats": 0.19,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346411,
+    "description": "Blueberries, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "blueberries"
+    ],
+    "macros": {
+      "carb": 14.6,
+      "protein": 0.7,
+      "fats": 0.31,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346412,
+    "description": "Grapes, red, seedless, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "grapes",
+      "red",
+      "seedless"
+    ],
+    "macros": {
+      "carb": 20.2,
+      "protein": 0.91,
+      "fats": 0.16,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346413,
+    "description": "Grapes, green, seedless, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "grapes",
+      "green",
+      "seedless"
+    ],
+    "macros": {
+      "carb": 18.6,
+      "protein": 0.9,
+      "fats": 0.23,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2346414,
+    "description": "Applesauce, unsweetened, with added vitamin C",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "applesauce",
+      "unsweetened",
+      "vitamin"
+    ],
+    "macros": {
+      "carb": 12.3,
+      "protein": 0.27,
+      "fats": 0.16,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2512371,
+    "description": "Flour, amaranth",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "amaranth",
+      "flour"
+    ],
+    "macros": {
+      "carb": 68.8,
+      "protein": 13.2,
+      "fats": 6.24,
+      "fibre": 7.21
+    }
+  },
+  {
+    "fdcId": 2512372,
+    "description": "Flour, quinoa",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "flour",
+      "quinoa"
+    ],
+    "macros": {
+      "carb": 69.5,
+      "protein": 11.9,
+      "fats": 6.6,
+      "fibre": 6.3
+    }
+  },
+  {
+    "fdcId": 2512373,
+    "description": "Flour, sorghum",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "flour",
+      "sorghum"
+    ],
+    "macros": {
+      "carb": 77.4,
+      "protein": 8.27,
+      "fats": 3.59,
+      "fibre": 6.02
+    }
+  },
+  {
+    "fdcId": 2512374,
+    "description": "Flour, buckwheat",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "buckwheat",
+      "flour"
+    ],
+    "macros": {
+      "carb": 75.0,
+      "protein": 8.88,
+      "fats": 2.48,
+      "fibre": 10.4
+    }
+  },
+  {
+    "fdcId": 2512375,
+    "description": "Flour, rye",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "flour",
+      "rye"
+    ],
+    "macros": {
+      "carb": 77.2,
+      "protein": 8.4,
+      "fats": 1.91,
+      "fibre": 13.7
+    }
+  },
+  {
+    "fdcId": 2512376,
+    "description": "Flour, barley",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "barley",
+      "flour"
+    ],
+    "macros": {
+      "carb": 77.4,
+      "protein": 8.72,
+      "fats": 2.45,
+      "fibre": 12.8
+    }
+  },
+  {
+    "fdcId": 2512377,
+    "description": "Flour, cassava",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "cassava",
+      "flour"
+    ],
+    "macros": {
+      "carb": 87.3,
+      "protein": 0.92,
+      "fats": 0.49,
+      "fibre": 4.83
+    }
+  },
+  {
+    "fdcId": 2512378,
+    "description": "Buckwheat, whole grain",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "buckwheat",
+      "grain",
+      "whole"
+    ],
+    "macros": {
+      "carb": 71.1,
+      "protein": 11.1,
+      "fats": 3.04,
+      "fibre": 4.05
+    }
+  },
+  {
+    "fdcId": 2512379,
+    "description": "Millet, whole grain",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "grain",
+      "millet",
+      "whole"
+    ],
+    "macros": {
+      "carb": 74.4,
+      "protein": 10.0,
+      "fats": 4.19,
+      "fibre": 2.62
+    }
+  },
+  {
+    "fdcId": 2512380,
+    "description": "Rice, brown, long grain, unenriched, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "brown",
+      "grain",
+      "long",
+      "rice",
+      "unenriched"
+    ],
+    "macros": {
+      "carb": 76.7,
+      "protein": 7.25,
+      "fats": 3.31,
+      "fibre": 3.02
+    }
+  },
+  {
+    "fdcId": 2512381,
+    "description": "Rice, white, long grain, unenriched, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "grain",
+      "long",
+      "rice",
+      "unenriched",
+      "white"
+    ],
+    "macros": {
+      "carb": 80.3,
+      "protein": 7.04,
+      "fats": 1.03,
+      "fibre": 0.15
+    }
+  },
+  {
+    "fdcId": 2514743,
+    "description": "Beef, ground, 90% lean meat / 10% fat, raw",
+    "category": "Beef Products",
+    "tokens": [
+      "beef",
+      "fat",
+      "ground",
+      "lean",
+      "meat"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 18.2,
+      "fats": 12.8,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2514744,
+    "description": "Beef, ground, 80% lean meat / 20% fat, raw",
+    "category": "Beef Products",
+    "tokens": [
+      "beef",
+      "fat",
+      "ground",
+      "lean",
+      "meat"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 17.5,
+      "fats": 19.4,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2514745,
+    "description": "Pork, ground, raw",
+    "category": "Pork Products",
+    "tokens": [
+      "ground",
+      "pork"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 17.8,
+      "fats": 17.5,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2514746,
+    "description": "Chicken, ground, with additives, raw",
+    "category": "Poultry Products",
+    "tokens": [
+      "additives",
+      "chicken",
+      "ground"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 17.9,
+      "fats": 7.16,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2514747,
+    "description": "Turkey, ground, 93% lean/ 7% fat, raw",
+    "category": "Poultry Products",
+    "tokens": [
+      "fat",
+      "ground",
+      "lean",
+      "turkey"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 17.3,
+      "fats": 9.59,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2515373,
+    "description": "Nuts, brazilnuts, raw",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "brazilnuts",
+      "nuts"
+    ],
+    "macros": {
+      "carb": 21.6,
+      "protein": 15.0,
+      "fats": 57.4,
+      "fibre": 5.98
+    }
+  },
+  {
+    "fdcId": 2515374,
+    "description": "Nuts, cashew nuts, raw",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "cashew",
+      "nuts"
+    ],
+    "macros": {
+      "carb": 36.3,
+      "protein": 17.4,
+      "fats": 38.9,
+      "fibre": 4.1
+    }
+  },
+  {
+    "fdcId": 2515375,
+    "description": "Nuts, hazelnuts or filberts, raw",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "filberts",
+      "hazelnuts",
+      "nuts"
+    ],
+    "macros": {
+      "carb": 26.5,
+      "protein": 13.5,
+      "fats": 53.5,
+      "fibre": 8.41
+    }
+  },
+  {
+    "fdcId": 2515376,
+    "description": "Peanuts, raw",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "peanuts"
+    ],
+    "macros": {
+      "carb": 26.5,
+      "protein": 23.2,
+      "fats": 43.3,
+      "fibre": 8.01
+    }
+  },
+  {
+    "fdcId": 2515377,
+    "description": "Flour, chestnut",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "chestnut",
+      "flour"
+    ],
+    "macros": {
+      "carb": 80.5,
+      "protein": 5.29,
+      "fats": 4.64,
+      "fibre": 8.71
+    }
+  },
+  {
+    "fdcId": 2515378,
+    "description": "Nuts, macadamia nuts, raw",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "macadamia",
+      "nuts"
+    ],
+    "macros": {
+      "carb": 24.1,
+      "protein": 7.79,
+      "fats": 64.9,
+      "fibre": 7.56
+    }
+  },
+  {
+    "fdcId": 2515379,
+    "description": "Nuts, pistachio nuts, raw",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "nuts",
+      "pistachio"
+    ],
+    "macros": {
+      "carb": 27.7,
+      "protein": 20.5,
+      "fats": 45.0,
+      "fibre": 6.97
+    }
+  },
+  {
+    "fdcId": 2515380,
+    "description": "Seeds, pumpkin seeds (pepitas), raw",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "pepitas",
+      "pumpkin",
+      "seeds"
+    ],
+    "macros": {
+      "carb": 18.7,
+      "protein": 29.9,
+      "fats": 40.0,
+      "fibre": 5.08
+    }
+  },
+  {
+    "fdcId": 2515381,
+    "description": "Seeds, sunflower seed, kernel, raw",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "kernel",
+      "seed",
+      "seeds",
+      "sunflower"
+    ],
+    "macros": {
+      "carb": 24.5,
+      "protein": 18.9,
+      "fats": 48.4,
+      "fibre": 7.22
+    }
+  },
+  {
+    "fdcId": 2515382,
+    "description": "Flour, coconut",
+    "category": "Nut and Seed Products",
+    "tokens": [
+      "coconut",
+      "flour"
+    ],
+    "macros": {
+      "carb": 58.9,
+      "protein": 16.1,
+      "fats": 15.3,
+      "fibre": 34.2
+    }
+  },
+  {
+    "fdcId": 2644281,
+    "description": "Beans, cannellini, dry",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "cannellini",
+      "dry"
+    ],
+    "macros": {
+      "carb": 59.8,
+      "protein": 21.6,
+      "fats": 2.2,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2644282,
+    "description": "Chickpeas, (garbanzo beans, bengal gram), dry",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "bengal",
+      "chickpeas",
+      "dry",
+      "garbanzo",
+      "gram"
+    ],
+    "macros": {
+      "carb": 60.4,
+      "protein": 21.3,
+      "fats": 6.27,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2644283,
+    "description": "Lentils, dry",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "dry",
+      "lentils"
+    ],
+    "macros": {
+      "carb": 62.2,
+      "protein": 23.6,
+      "fats": 1.92,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2644284,
+    "description": "Blackeye pea, dry",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "blackeye",
+      "dry",
+      "pea"
+    ],
+    "macros": {
+      "carb": 61.8,
+      "protein": 21.2,
+      "fats": 2.42,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2644285,
+    "description": "Beans, black, canned, sodium added, drained and rinsed",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "black",
+      "drained",
+      "rinsed",
+      "sodium"
+    ],
+    "macros": {
+      "carb": 19.8,
+      "protein": 6.91,
+      "fats": 1.27,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2644286,
+    "description": "Beans, navy, canned, sodium added, drained and rinsed",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "drained",
+      "navy",
+      "rinsed",
+      "sodium"
+    ],
+    "macros": {
+      "carb": 20.0,
+      "protein": 6.57,
+      "fats": 1.4,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2644287,
+    "description": "Beans, cannellini, canned, sodium added, drained and rinsed",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "cannellini",
+      "drained",
+      "rinsed",
+      "sodium"
+    ],
+    "macros": {
+      "carb": 18.8,
+      "protein": 7.41,
+      "fats": 1.17,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2644288,
+    "description": "Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "bengal",
+      "chickpeas",
+      "drained",
+      "garbanzo",
+      "gram",
+      "rinsed",
+      "sodium"
+    ],
+    "macros": {
+      "carb": 20.3,
+      "protein": 7.02,
+      "fats": 3.1,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2644289,
+    "description": "Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "dark",
+      "drained",
+      "kidney",
+      "red",
+      "rinsed",
+      "sodium",
+      "sugar"
+    ],
+    "macros": {
+      "carb": 21.0,
+      "protein": 7.8,
+      "fats": 1.26,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2644290,
+    "description": "Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "drained",
+      "kidney",
+      "light",
+      "red",
+      "rinsed",
+      "sodium",
+      "sugar"
+    ],
+    "macros": {
+      "carb": 21.4,
+      "protein": 7.31,
+      "fats": 1.3,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2644291,
+    "description": "Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "drained",
+      "green",
+      "peas",
+      "rinsed",
+      "sodium",
+      "sugar",
+      "sweet"
+    ],
+    "macros": {
+      "carb": 12.7,
+      "protein": 4.73,
+      "fats": 1.15,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2644292,
+    "description": "Beans, pinto, canned, sodium added, drained and rinsed",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "drained",
+      "pinto",
+      "rinsed",
+      "sodium"
+    ],
+    "macros": {
+      "carb": 19.6,
+      "protein": 6.69,
+      "fats": 1.27,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2644293,
+    "description": "Blackeye pea, canned, sodium added, drained and rinsed",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "blackeye",
+      "drained",
+      "pea",
+      "rinsed",
+      "sodium"
+    ],
+    "macros": {
+      "carb": 19.2,
+      "protein": 6.92,
+      "fats": 1.3,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2644294,
+    "description": "Beans, great northern, canned, sodium added, drained and rinsed",
+    "category": "Legumes and Legume Products",
+    "tokens": [
+      "beans",
+      "drained",
+      "great",
+      "northern",
+      "rinsed",
+      "sodium"
+    ],
+    "macros": {
+      "carb": 19.3,
+      "protein": 7.03,
+      "fats": 1.27,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2646168,
+    "description": "Pork, loin, boneless, raw",
+    "category": "Pork Products",
+    "tokens": [
+      "boneless",
+      "loin",
+      "pork"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 21.1,
+      "fats": 0.03,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2646169,
+    "description": "Pork, loin, tenderloin, boneless, raw",
+    "category": "Pork Products",
+    "tokens": [
+      "boneless",
+      "loin",
+      "pork",
+      "tenderloin"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 21.6,
+      "fats": 0.01,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2646170,
+    "description": "Chicken, breast, boneless, skinless, raw",
+    "category": "Poultry Products",
+    "tokens": [
+      "boneless",
+      "breast",
+      "chicken",
+      "skinless"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 22.5,
+      "fats": 0.01,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2646171,
+    "description": "Chicken, thigh, boneless, skinless, raw",
+    "category": "Poultry Products",
+    "tokens": [
+      "boneless",
+      "chicken",
+      "skinless",
+      "thigh"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 18.6,
+      "fats": 0.02,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2646172,
+    "description": "Beef, ribeye, steak, boneless, choice, raw",
+    "category": "Beef Products",
+    "tokens": [
+      "beef",
+      "boneless",
+      "choice",
+      "ribeye",
+      "steak"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 18.7,
+      "fats": 0.97,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2646173,
+    "description": "Beef, round, top round, boneless, choice, raw",
+    "category": "Beef Products",
+    "tokens": [
+      "beef",
+      "boneless",
+      "choice",
+      "round",
+      "top"
+    ],
+    "macros": {
+      "carb": 0.85,
+      "protein": 21.5,
+      "fats": 0.23,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2646174,
+    "description": "Beef, chuck, roast, boneless, choice, raw",
+    "category": "Beef Products",
+    "tokens": [
+      "beef",
+      "boneless",
+      "choice",
+      "chuck",
+      "roast"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 18.4,
+      "fats": 0.67,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2646175,
+    "description": "Beef, flank, steak, boneless, choice, raw",
+    "category": "Beef Products",
+    "tokens": [
+      "beef",
+      "boneless",
+      "choice",
+      "flank",
+      "steak"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 20.1,
+      "fats": 0.39,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2647437,
+    "description": "Yogurt, plain, nonfat",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "nonfat",
+      "plain",
+      "yogurt"
+    ],
+    "macros": {
+      "carb": 8.08,
+      "protein": 4.23,
+      "fats": 0.09,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2647438,
+    "description": "Cheese, monterey jack, solid",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cheese",
+      "jack",
+      "monterey",
+      "solid"
+    ],
+    "macros": {
+      "carb": 1.9,
+      "protein": 22.6,
+      "fats": 6.68,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2647439,
+    "description": "Cheese, pasteurized process cheese food or product, American, singles",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "american",
+      "cheese",
+      "food",
+      "pasteurized",
+      "process",
+      "product",
+      "singles"
+    ],
+    "macros": {
+      "carb": 8.19,
+      "protein": 15.6,
+      "fats": 4.89,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2647440,
+    "description": "Cheese, provolone, sliced",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cheese",
+      "provolone",
+      "sliced"
+    ],
+    "macros": {
+      "carb": 2.45,
+      "protein": 23.5,
+      "fats": 5.74,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2647441,
+    "description": "Cheese, oaxaca, solid",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cheese",
+      "oaxaca",
+      "solid"
+    ],
+    "macros": {
+      "carb": 2.4,
+      "protein": 22.1,
+      "fats": 4.74,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2647442,
+    "description": "Cheese, queso fresco, solid",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cheese",
+      "fresco",
+      "queso",
+      "solid"
+    ],
+    "macros": {
+      "carb": 2.96,
+      "protein": 18.9,
+      "fats": 4.96,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2647443,
+    "description": "Cheese, cotija, solid",
+    "category": "Dairy and Egg Products",
+    "tokens": [
+      "cheese",
+      "cotija",
+      "solid"
+    ],
+    "macros": {
+      "carb": 2.72,
+      "protein": 23.8,
+      "fats": 5.93,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2684440,
+    "description": "Fish, salmon, sockeye, wild caught, raw",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "caught",
+      "fish",
+      "salmon",
+      "sockeye",
+      "wild"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 22.3,
+      "fats": 4.94,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2684441,
+    "description": "Fish, salmon, Atlantic, farm raised, raw",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "atlantic",
+      "farm",
+      "fish",
+      "raised",
+      "salmon"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 20.3,
+      "fats": 13.1,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2684442,
+    "description": "Fish, tilapia, farm raised, raw",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "farm",
+      "fish",
+      "raised",
+      "tilapia"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 19.0,
+      "fats": 2.48,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2684443,
+    "description": "Crustaceans, shrimp, farm raised, raw",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "crustaceans",
+      "farm",
+      "raised",
+      "shrimp"
+    ],
+    "macros": {
+      "carb": 0.48,
+      "protein": 15.6,
+      "fats": 0.8,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2684444,
+    "description": "Fish, cod, Atlantic, wild caught, raw",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "atlantic",
+      "caught",
+      "cod",
+      "fish",
+      "wild"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 16.1,
+      "fats": 0.67,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2684445,
+    "description": "Fish, catfish, farm raised, raw",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "catfish",
+      "farm",
+      "fish",
+      "raised"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 16.5,
+      "fats": 7.31,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2684446,
+    "description": "Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "blue",
+      "crab",
+      "crustaceans",
+      "lump",
+      "pasteurized",
+      "refrigerated",
+      "swimming"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 18.6,
+      "fats": 0.81,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2685568,
+    "description": "Squash, summer, green, zucchini, includes skin, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "green",
+      "skin",
+      "squash",
+      "summer",
+      "zucchini"
+    ],
+    "macros": {
+      "carb": 3.27,
+      "protein": 0.98,
+      "fats": 0.2,
+      "fibre": 0.75
+    }
+  },
+  {
+    "fdcId": 2685569,
+    "description": "Squash, summer, yellow, includes skin, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "skin",
+      "squash",
+      "summer",
+      "yellow"
+    ],
+    "macros": {
+      "carb": 4.39,
+      "protein": 0.89,
+      "fats": 0.14,
+      "fibre": 0.96
+    }
+  },
+  {
+    "fdcId": 2685570,
+    "description": "Squash, winter, butternut, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "butternut",
+      "squash",
+      "winter"
+    ],
+    "macros": {
+      "carb": 10.5,
+      "protein": 1.15,
+      "fats": 0.17,
+      "fibre": 1.96
+    }
+  },
+  {
+    "fdcId": 2685571,
+    "description": "Squash, winter, acorn, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "acorn",
+      "squash",
+      "winter"
+    ],
+    "macros": {
+      "carb": 10.5,
+      "protein": 1.25,
+      "fats": 0.18,
+      "fibre": 2.64
+    }
+  },
+  {
+    "fdcId": 2685572,
+    "description": "Cabbage, bok choy, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "bok",
+      "cabbage",
+      "choy"
+    ],
+    "macros": {
+      "carb": 3.51,
+      "protein": 1.02,
+      "fats": 0.23,
+      "fibre": 1.26
+    }
+  },
+  {
+    "fdcId": 2685573,
+    "description": "Cauliflower, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "cauliflower"
+    ],
+    "macros": {
+      "carb": 4.72,
+      "protein": 1.64,
+      "fats": 0.24,
+      "fibre": 1.95
+    }
+  },
+  {
+    "fdcId": 2685574,
+    "description": "Collards, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "collards"
+    ],
+    "macros": {
+      "carb": 7.02,
+      "protein": 2.97,
+      "fats": 0.77,
+      "fibre": 3.82
+    }
+  },
+  {
+    "fdcId": 2685575,
+    "description": "Brussels sprouts, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "brussels",
+      "sprouts"
+    ],
+    "macros": {
+      "carb": 9.62,
+      "protein": 3.98,
+      "fats": 0.56,
+      "fibre": 4.78
+    }
+  },
+  {
+    "fdcId": 2685576,
+    "description": "Beets, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "beets"
+    ],
+    "macros": {
+      "carb": 8.79,
+      "protein": 1.69,
+      "fats": 0.3,
+      "fibre": 3.12
+    }
+  },
+  {
+    "fdcId": 2685577,
+    "description": "Eggplant, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "eggplant"
+    ],
+    "macros": {
+      "carb": 5.4,
+      "protein": 0.85,
+      "fats": 0.12,
+      "fibre": 2.45
+    }
+  },
+  {
+    "fdcId": 2685578,
+    "description": "Tomatoes, whole, canned, solids and liquids, with salt added",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "liquids",
+      "salt",
+      "tomatoes",
+      "whole"
+    ],
+    "macros": {
+      "carb": 4.29,
+      "protein": 0.87,
+      "fats": 0.21,
+      "fibre": 0.87
+    }
+  },
+  {
+    "fdcId": 2685579,
+    "description": "Tomato, sauce, canned, with salt added",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "salt",
+      "sauce",
+      "tomato"
+    ],
+    "macros": {
+      "carb": 6.33,
+      "protein": 1.35,
+      "fats": 0.38,
+      "fibre": 1.64
+    }
+  },
+  {
+    "fdcId": 2685580,
+    "description": "Tomato, paste, canned, without salt added",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "paste",
+      "salt",
+      "tomato"
+    ],
+    "macros": {
+      "carb": 20.2,
+      "protein": 4.23,
+      "fats": 0.73,
+      "fibre": 4.7
+    }
+  },
+  {
+    "fdcId": 2685581,
+    "description": "Tomatoes, crushed, canned",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "crushed",
+      "tomatoes"
+    ],
+    "macros": {
+      "carb": 7.14,
+      "protein": 1.44,
+      "fats": 0.4,
+      "fibre": 1.94
+    }
+  },
+  {
+    "fdcId": 2685582,
+    "description": "Tomato, puree, canned",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "puree",
+      "tomato"
+    ],
+    "macros": {
+      "carb": 8.04,
+      "protein": 1.58,
+      "fats": 0.27,
+      "fibre": 1.97
+    }
+  },
+  {
+    "fdcId": 2710815,
+    "description": "Apricot, with skin, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "apricot",
+      "skin"
+    ],
+    "macros": {
+      "carb": 10.2,
+      "protein": 0.96,
+      "fats": 0.41,
+      "fibre": 1.51
+    }
+  },
+  {
+    "fdcId": 2710816,
+    "description": "Melons, honeydew, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "honeydew",
+      "melons"
+    ],
+    "macros": {
+      "carb": 8.15,
+      "protein": 0.53,
+      "fats": 0.22,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2710817,
+    "description": "Plantains, ripe, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "plantains",
+      "ripe"
+    ],
+    "macros": {
+      "carb": 31.0,
+      "protein": 1.16,
+      "fats": 0.89,
+      "fibre": 2.12
+    }
+  },
+  {
+    "fdcId": 2710818,
+    "description": "Plantains, underripe, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "plantains",
+      "underripe"
+    ],
+    "macros": {
+      "carb": 33.6,
+      "protein": 1.23,
+      "fats": 0.69,
+      "fibre": 2.53
+    }
+  },
+  {
+    "fdcId": 2710819,
+    "description": "Chia seeds, dry, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "chia",
+      "dry",
+      "seeds"
+    ],
+    "macros": {
+      "carb": 38.3,
+      "protein": 17.0,
+      "fats": 32.9,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2710820,
+    "description": "Bulgur, dry, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "bulgur",
+      "dry"
+    ],
+    "macros": {
+      "carb": 75.9,
+      "protein": 11.8,
+      "fats": 2.42,
+      "fibre": 11.7
+    }
+  },
+  {
+    "fdcId": 2710821,
+    "description": "Wild rice, dry, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "dry",
+      "rice",
+      "wild"
+    ],
+    "macros": {
+      "carb": 75.7,
+      "protein": 12.8,
+      "fats": 1.7,
+      "fibre": 4.26
+    }
+  },
+  {
+    "fdcId": 2710822,
+    "description": "Arugula, baby, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "arugula",
+      "baby"
+    ],
+    "macros": {
+      "carb": 5.37,
+      "protein": 1.65,
+      "fats": 0.33,
+      "fibre": 2.28
+    }
+  },
+  {
+    "fdcId": 2710823,
+    "description": "Asparagus, green, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "asparagus",
+      "green"
+    ],
+    "macros": {
+      "carb": 5.1,
+      "protein": 1.44,
+      "fats": 0.22,
+      "fibre": 1.88
+    }
+  },
+  {
+    "fdcId": 2710824,
+    "description": "Avocado, Hass, peeled, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "avocado",
+      "hass",
+      "peeled"
+    ],
+    "macros": {
+      "carb": 8.32,
+      "protein": 1.81,
+      "fats": 20.3,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2710825,
+    "description": "Rice, black, unenriched, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "black",
+      "rice",
+      "unenriched"
+    ],
+    "macros": {
+      "carb": 77.2,
+      "protein": 7.57,
+      "fats": 3.44,
+      "fibre": 4.18
+    }
+  },
+  {
+    "fdcId": 2710826,
+    "description": "Corn, sweet, yellow and white kernels, \u00a0fresh, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "corn",
+      "kernels",
+      "sweet",
+      "white",
+      "yellow"
+    ],
+    "macros": {
+      "carb": 14.7,
+      "protein": 2.79,
+      "fats": 1.63,
+      "fibre": 2.43
+    }
+  },
+  {
+    "fdcId": 2710827,
+    "description": "Einkorn, grain, dry, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "dry",
+      "einkorn",
+      "grain"
+    ],
+    "macros": {
+      "carb": 68.7,
+      "protein": 15.1,
+      "fats": 3.81,
+      "fibre": 8.91
+    }
+  },
+  {
+    "fdcId": 2710828,
+    "description": "Farro, pearled, dry, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "dry",
+      "farro",
+      "pearled"
+    ],
+    "macros": {
+      "carb": 72.1,
+      "protein": 12.6,
+      "fats": 3.1,
+      "fibre": 7.31
+    }
+  },
+  {
+    "fdcId": 2710829,
+    "description": "Fonio, grain, dry, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "dry",
+      "fonio",
+      "grain"
+    ],
+    "macros": {
+      "carb": 81.3,
+      "protein": 7.17,
+      "fats": 1.69,
+      "fibre": 2.2
+    }
+  },
+  {
+    "fdcId": 2710830,
+    "description": "Khorasan, grain, dry, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "dry",
+      "grain",
+      "khorasan"
+    ],
+    "macros": {
+      "carb": 71.8,
+      "protein": 14.8,
+      "fats": 2.8,
+      "fibre": 10.5
+    }
+  },
+  {
+    "fdcId": 2710831,
+    "description": "Kiwifruit (kiwi), green, peeled, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "green",
+      "kiwi",
+      "kiwifruit",
+      "peeled"
+    ],
+    "macros": {
+      "carb": 13.8,
+      "protein": 1.01,
+      "fats": 0.64,
+      "fibre": 2.13
+    }
+  },
+  {
+    "fdcId": 2710832,
+    "description": "Mandarin, seedless, peeled, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "mandarin",
+      "peeled",
+      "seedless"
+    ],
+    "macros": {
+      "carb": 13.4,
+      "protein": 1.04,
+      "fats": 0.46,
+      "fibre": 1.33
+    }
+  },
+  {
+    "fdcId": 2710833,
+    "description": "Mango, Tommy Atkins, peeled, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "atkins",
+      "mango",
+      "peeled",
+      "tommy"
+    ],
+    "macros": {
+      "carb": 15.3,
+      "protein": 0.56,
+      "fats": 0.57,
+      "fibre": 1.75
+    }
+  },
+  {
+    "fdcId": 2710834,
+    "description": "Mango, Ataulfo, peeled, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "ataulfo",
+      "mango",
+      "peeled"
+    ],
+    "macros": {
+      "carb": 17.4,
+      "protein": 0.69,
+      "fats": 0.68,
+      "fibre": 1.29
+    }
+  },
+  {
+    "fdcId": 2710835,
+    "description": "Corn flour, masa harina, white or yellow, dry, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "corn",
+      "dry",
+      "flour",
+      "harina",
+      "masa",
+      "white",
+      "yellow"
+    ],
+    "macros": {
+      "carb": 76.7,
+      "protein": 7.56,
+      "fats": 4.34,
+      "fibre": 7.04
+    }
+  },
+  {
+    "fdcId": 2710836,
+    "description": "Pear, Anjou, green, with skin, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "anjou",
+      "green",
+      "pear",
+      "skin"
+    ],
+    "macros": {
+      "carb": 14.8,
+      "protein": 0.31,
+      "fats": 0.37,
+      "fibre": 2.64
+    }
+  },
+  {
+    "fdcId": 2710837,
+    "description": "Plum, black, with skin, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "black",
+      "plum",
+      "skin"
+    ],
+    "macros": {
+      "carb": 13.5,
+      "protein": 0.58,
+      "fats": 0.28,
+      "fibre": 1.35
+    }
+  },
+  {
+    "fdcId": 2710838,
+    "description": "Rice, red, unenriched, dry, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "dry",
+      "red",
+      "rice",
+      "unenriched"
+    ],
+    "macros": {
+      "carb": 76.2,
+      "protein": 8.56,
+      "fats": 3.44,
+      "fibre": 4.2
+    }
+  },
+  {
+    "fdcId": 2710839,
+    "description": "Sorghum bran, white, unenriched, dry, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "bran",
+      "dry",
+      "sorghum",
+      "unenriched",
+      "white"
+    ],
+    "macros": {
+      "carb": 68.7,
+      "protein": 11.2,
+      "fats": 9.26,
+      "fibre": 35.0
+    }
+  },
+  {
+    "fdcId": 2710840,
+    "description": "Sorghum flour, white, pearled, unenriched, dry, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "dry",
+      "flour",
+      "pearled",
+      "sorghum",
+      "unenriched",
+      "white"
+    ],
+    "macros": {
+      "carb": 73.5,
+      "protein": 10.2,
+      "fats": 3.24,
+      "fibre": 3.3
+    }
+  },
+  {
+    "fdcId": 2710841,
+    "description": "Sorghum grain, white, pearled, unenriched, dry, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "dry",
+      "grain",
+      "pearled",
+      "sorghum",
+      "unenriched",
+      "white"
+    ],
+    "macros": {
+      "carb": 74.9,
+      "protein": 10.2,
+      "fats": 3.26,
+      "fibre": 3.92
+    }
+  },
+  {
+    "fdcId": 2710842,
+    "description": "Sorghum, whole grain, white, dry, raw",
+    "category": "Cereal Grains and Pasta",
+    "tokens": [
+      "dry",
+      "grain",
+      "sorghum",
+      "white",
+      "whole"
+    ],
+    "macros": {
+      "carb": 73.6,
+      "protein": 10.1,
+      "fats": 4.22,
+      "fibre": 8.27
+    }
+  },
+  {
+    "fdcId": 2710843,
+    "description": "Plantains, overripe, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "overripe",
+      "plantains"
+    ],
+    "macros": {
+      "carb": 29.2,
+      "protein": 1.17,
+      "fats": 0.99,
+      "fibre": 1.79
+    }
+  },
+  {
+    "fdcId": 2727566,
+    "description": "Chicken, drumstick, meat and skin, raw",
+    "category": "Poultry Products",
+    "tokens": [
+      "chicken",
+      "drumstick",
+      "meat",
+      "skin"
+    ],
+    "macros": {
+      "carb": -0.47,
+      "protein": 18.4,
+      "fats": 5.94,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2727567,
+    "description": "Chicken, thigh, meat and skin, raw",
+    "category": "Poultry Products",
+    "tokens": [
+      "chicken",
+      "meat",
+      "skin",
+      "thigh"
+    ],
+    "macros": {
+      "carb": -0.17,
+      "protein": 17.1,
+      "fats": 13.4,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2727568,
+    "description": "Chicken, wing, meat and skin, raw",
+    "category": "Poultry Products",
+    "tokens": [
+      "chicken",
+      "meat",
+      "skin",
+      "wing"
+    ],
+    "macros": {
+      "carb": -0.46,
+      "protein": 18.4,
+      "fats": 10.6,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2727569,
+    "description": "Chicken, breast, meat and skin, raw",
+    "category": "Poultry Products",
+    "tokens": [
+      "breast",
+      "chicken",
+      "meat",
+      "skin"
+    ],
+    "macros": {
+      "carb": -0.43,
+      "protein": 21.4,
+      "fats": 4.78,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2727570,
+    "description": "Lamb, ground, raw",
+    "category": "Lamb, Veal, and Game Products",
+    "tokens": [
+      "ground",
+      "lamb"
+    ],
+    "macros": {
+      "carb": -0.25,
+      "protein": 17.5,
+      "fats": 18.6,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2727571,
+    "description": "Bison, ground, raw",
+    "category": "Lamb, Veal, and Game Products",
+    "tokens": [
+      "bison",
+      "ground"
+    ],
+    "macros": {
+      "carb": -0.15,
+      "protein": 19.9,
+      "fats": 8.88,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2727572,
+    "description": "Beef, short loin (NY strip steak), raw",
+    "category": "Beef Products",
+    "tokens": [
+      "beef",
+      "loin",
+      "short",
+      "steak",
+      "strip"
+    ],
+    "macros": {
+      "carb": 0.22,
+      "protein": 21.3,
+      "fats": 11.5,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2727573,
+    "description": "Beef,\u00a0tenderloin steak, raw",
+    "category": "Beef Products",
+    "tokens": [
+      "beef",
+      "steak",
+      "tenderloin"
+    ],
+    "macros": {
+      "carb": 0.18,
+      "protein": 21.1,
+      "fats": 6.46,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2727574,
+    "description": "Beef, top sirloin steak, raw",
+    "category": "Beef Products",
+    "tokens": [
+      "beef",
+      "sirloin",
+      "steak",
+      "top"
+    ],
+    "macros": {
+      "carb": 0.22,
+      "protein": 22.0,
+      "fats": 5.71,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2727575,
+    "description": "Pork, chop, center cut, raw",
+    "category": "Pork Products",
+    "tokens": [
+      "center",
+      "chop",
+      "cut",
+      "pork"
+    ],
+    "macros": {
+      "carb": -0.56,
+      "protein": 22.8,
+      "fats": 5.48,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2727576,
+    "description": "Pork, belly, with skin, raw",
+    "category": "Pork Products",
+    "tokens": [
+      "belly",
+      "pork",
+      "skin"
+    ],
+    "macros": {
+      "carb": -0.7,
+      "protein": 15.2,
+      "fats": 35.8,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2727577,
+    "description": "Pawpaw, peeled, seeded, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "pawpaw",
+      "peeled",
+      "seeded"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 1.15,
+      "fats": 0.0,
+      "fibre": 3.3
+    }
+  },
+  {
+    "fdcId": 2727578,
+    "description": "Squash, pie pumpkin, peeled, seeded, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "peeled",
+      "pie",
+      "pumpkin",
+      "seeded",
+      "squash"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.85,
+      "fats": 0.0,
+      "fibre": 2.3
+    }
+  },
+  {
+    "fdcId": 2727579,
+    "description": "Squash, spaghetti, peeled, seeded, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "peeled",
+      "seeded",
+      "spaghetti",
+      "squash"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.79,
+      "fats": 0.0,
+      "fibre": 1.4
+    }
+  },
+  {
+    "fdcId": 2727580,
+    "description": "Rutabaga, peeled, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "peeled",
+      "rutabaga"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.89,
+      "fats": 0.0,
+      "fibre": 2.9
+    }
+  },
+  {
+    "fdcId": 2727581,
+    "description": "Blackberries, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "blackberries"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 1.53,
+      "fats": 0.0,
+      "fibre": 5.3
+    }
+  },
+  {
+    "fdcId": 2727582,
+    "description": "Tomatillos, dehusked, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "dehusked",
+      "tomatillos"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 1.06,
+      "fats": 0.0,
+      "fibre": 1.7
+    }
+  },
+  {
+    "fdcId": 2727583,
+    "description": "Cabbage, napa, leaf, destemmed, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "cabbage",
+      "destemmed",
+      "leaf",
+      "napa"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 1.06,
+      "fats": 0.0,
+      "fibre": 1.2
+    }
+  },
+  {
+    "fdcId": 2727584,
+    "description": "Leeks, bulb and greens, root removed, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "bulb",
+      "greens",
+      "leeks",
+      "removed",
+      "root"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 1.47,
+      "fats": 0.0,
+      "fibre": 3.0
+    }
+  },
+  {
+    "fdcId": 2727585,
+    "description": "Green onion, (scallion), bulb and greens, root removed, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "bulb",
+      "green",
+      "greens",
+      "onion",
+      "removed",
+      "root",
+      "scallion"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.67,
+      "fats": 0.0,
+      "fibre": 2.3
+    }
+  },
+  {
+    "fdcId": 2727586,
+    "description": "Shallots, bulb, peeled, root removed, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "bulb",
+      "peeled",
+      "removed",
+      "root",
+      "shallots"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 1.38,
+      "fats": 0.0,
+      "fibre": 2.2
+    }
+  },
+  {
+    "fdcId": 2727587,
+    "description": "Juice, prune, shelf-stable",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "juice",
+      "prune",
+      "shelf",
+      "stable"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.42,
+      "fats": 0.0,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2727588,
+    "description": "Juice, pomegranate, from concentrate, shelf-stable",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "concentrate",
+      "juice",
+      "pomegranate",
+      "shelf",
+      "stable"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.0,
+      "fats": 0.0,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2727589,
+    "description": "Juice, tart cherry, from concentrate, shelf-stable",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "cherry",
+      "concentrate",
+      "juice",
+      "shelf",
+      "stable",
+      "tart"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.15,
+      "fats": 0.0,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2747652,
+    "description": "Anchovies, canned in olive oil, with salt, drained",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "anchovies",
+      "drained",
+      "oil",
+      "olive",
+      "salt"
+    ],
+    "macros": {
+      "carb": 2.41,
+      "protein": 26.9,
+      "fats": 9.85,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2747653,
+    "description": "Beet greens, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "beet",
+      "greens"
+    ],
+    "macros": {
+      "carb": 4.66,
+      "protein": 1.61,
+      "fats": 0.14,
+      "fibre": 2.58
+    }
+  },
+  {
+    "fdcId": 2747654,
+    "description": "Cod, Pacific or Alaskan, frozen, wild caught",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "alaskan",
+      "caught",
+      "cod",
+      "pacific",
+      "wild"
+    ],
+    "macros": {
+      "carb": 0.52,
+      "protein": 14.2,
+      "fats": 0.22,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2747655,
+    "description": "Fennel, bulb, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "bulb",
+      "fennel"
+    ],
+    "macros": {
+      "carb": 5.49,
+      "protein": 0.92,
+      "fats": 0.14,
+      "fibre": 2.05
+    }
+  },
+  {
+    "fdcId": 2747656,
+    "description": "Halibut, frozen, wild caught",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "caught",
+      "halibut",
+      "wild"
+    ],
+    "macros": {
+      "carb": -0.06,
+      "protein": 19.1,
+      "fats": 0.59,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2747657,
+    "description": "Lobster, tail only, frozen, wild caught",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "caught",
+      "lobster",
+      "only",
+      "tail",
+      "wild"
+    ],
+    "macros": {
+      "carb": 0.89,
+      "protein": 13.0,
+      "fats": 0.37,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2747658,
+    "description": "Mahi mahi, frozen, wild caught",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "caught",
+      "mahi",
+      "wild"
+    ],
+    "macros": {
+      "carb": 0.29,
+      "protein": 19.8,
+      "fats": 0.38,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2747659,
+    "description": "Parsnips, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "parsnips"
+    ],
+    "macros": {
+      "carb": 19.3,
+      "protein": 1.27,
+      "fats": 0.54,
+      "fibre": 5.35
+    }
+  },
+  {
+    "fdcId": 2747660,
+    "description": "Peppers, banana or Hungarian wax, seeded, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "banana",
+      "hungarian",
+      "peppers",
+      "seeded",
+      "wax"
+    ],
+    "macros": {
+      "carb": 4.97,
+      "protein": 0.72,
+      "fats": 0.13,
+      "fibre": 1.79
+    }
+  },
+  {
+    "fdcId": 2747661,
+    "description": "Peppers, jalapeno, seeded, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "jalapeno",
+      "peppers",
+      "seeded"
+    ],
+    "macros": {
+      "carb": 5.08,
+      "protein": 0.62,
+      "fats": 0.15,
+      "fibre": 1.72
+    }
+  },
+  {
+    "fdcId": 2747662,
+    "description": "Peppers, poblano, seeded, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "peppers",
+      "poblano",
+      "seeded"
+    ],
+    "macros": {
+      "carb": 5.14,
+      "protein": 1.43,
+      "fats": 0.19,
+      "fibre": 2.07
+    }
+  },
+  {
+    "fdcId": 2747663,
+    "description": "Peppers, serrano, seeded, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "peppers",
+      "seeded",
+      "serrano"
+    ],
+    "macros": {
+      "carb": 6.14,
+      "protein": 0.86,
+      "fats": 0.14,
+      "fibre": 2.52
+    }
+  },
+  {
+    "fdcId": 2747664,
+    "description": "Radicchio, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "radicchio"
+    ],
+    "macros": {
+      "carb": 4.96,
+      "protein": 1.31,
+      "fats": 0.14,
+      "fibre": 2.11
+    }
+  },
+  {
+    "fdcId": 2747665,
+    "description": "Radishes, red, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "radishes",
+      "red"
+    ],
+    "macros": {
+      "carb": 4.06,
+      "protein": 0.66,
+      "fats": 0.08,
+      "fibre": 1.31
+    }
+  },
+  {
+    "fdcId": 2747666,
+    "description": "Scallops, bay, Patagonian, frozen, wild caught",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "bay",
+      "caught",
+      "patagonian",
+      "scallops",
+      "wild"
+    ],
+    "macros": {
+      "carb": 2.28,
+      "protein": 16.4,
+      "fats": 0.42,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2747667,
+    "description": "Scallops, sea, frozen, wild caught",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "caught",
+      "scallops",
+      "sea",
+      "wild"
+    ],
+    "macros": {
+      "carb": 1.97,
+      "protein": 13.5,
+      "fats": 0.49,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2747668,
+    "description": "Sea bass, Chilean, frozen, wild caught",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "bass",
+      "caught",
+      "chilean",
+      "sea",
+      "wild"
+    ],
+    "macros": {
+      "carb": 0.14,
+      "protein": 14.9,
+      "fats": 16.6,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2747669,
+    "description": "Snapper, frozen, wild caught",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "caught",
+      "snapper",
+      "wild"
+    ],
+    "macros": {
+      "carb": 0.44,
+      "protein": 20.7,
+      "fats": 0.57,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2747670,
+    "description": "Snow crab, legs only, frozen",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "crab",
+      "legs",
+      "only",
+      "snow"
+    ],
+    "macros": {
+      "carb": 1.11,
+      "protein": 15.5,
+      "fats": 0.29,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2747671,
+    "description": "Squid (calamari), frozen, tubes only",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "calamari",
+      "only",
+      "squid",
+      "tubes"
+    ],
+    "macros": {
+      "carb": 0.93,
+      "protein": 8.81,
+      "fats": 0.55,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2747672,
+    "description": "Swordfish, frozen, wild caught",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "caught",
+      "swordfish",
+      "wild"
+    ],
+    "macros": {
+      "carb": 0.45,
+      "protein": 19.2,
+      "fats": 8.12,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2747673,
+    "description": "Tuna, ahi or yellowfin, frozen, wild caught",
+    "category": "Finfish and Shellfish Products",
+    "tokens": [
+      "ahi",
+      "caught",
+      "tuna",
+      "wild",
+      "yellowfin"
+    ],
+    "macros": {
+      "carb": -0.1,
+      "protein": 24.7,
+      "fats": 0.39,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2747674,
+    "description": "Turnips, raw",
+    "category": "Vegetables and Vegetable Products",
+    "tokens": [
+      "turnips"
+    ],
+    "macros": {
+      "carb": 7.27,
+      "protein": 0.95,
+      "fats": 0.12,
+      "fibre": 1.92
+    }
+  },
+  {
+    "fdcId": 2747675,
+    "description": "Watermelon, seedless, flesh only, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "flesh",
+      "only",
+      "seedless",
+      "watermelon"
+    ],
+    "macros": {
+      "carb": 0.0,
+      "protein": 0.87,
+      "fats": 0.0,
+      "fibre": 0.0
+    }
+  },
+  {
+    "fdcId": 2747676,
+    "description": "Watermelon, seedless, rind only, raw",
+    "category": "Fruits and Fruit Juices",
+    "tokens": [
+      "only",
+      "rind",
+      "seedless",
+      "watermelon"
+    ],
+    "macros": {
+      "carb": 4.17,
+      "protein": 0.53,
+      "fats": 0.07,
+      "fibre": 1.54
+    }
+  }
+]
